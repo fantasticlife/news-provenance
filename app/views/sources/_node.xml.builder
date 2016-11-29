@@ -1,0 +1,1 @@
+xml.node( 'id' => node.id, 'label' => node.title )

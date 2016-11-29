@@ -1,0 +1,4 @@
+<tr>
+	<%= content_tag( 'td', similar_source.similarity_score ) %>
+	<%= content_tag( 'td', link_to( similar_source.target_source.title, sources_show_url( :source => similar_source.target_source ) ) ) %>
+</tr>

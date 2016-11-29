@@ -1,0 +1,26 @@
+<div class="section">
+	<%= content_tag( 'h1', @source.title ) %>
+	<%= content_tag( 'p', link_to( @source.url, @source.url ) ) %>
+</div>
+
+<div class="section">
+	<%= content_tag( 'h2', 'Articles' ) %>
+	<ol>
+		<%= render :partial => 'articles/article', :collection => @source.articles %>
+	</ol>
+</div>
+
+<div class="section">
+	<%= content_tag( 'h2', 'Similar sources' ) %>
+	<table>
+		<thead>
+			<tr>
+				<%= content_tag( 'td', 'Similarity' ) %>
+				<%= content_tag( 'td', 'Source' ) %>
+			</tr>
+		</thead>
+		<tbody>
+			<%= render :partial => 'similar_source', :collection => @source.source_similarities %>
+		</tbody>
+	</table>
+</div>

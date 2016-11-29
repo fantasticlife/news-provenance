@@ -1,0 +1,1 @@
+xml.node( 'id' => article_node.target_article.id, 'label' => article_node.target_article.title )

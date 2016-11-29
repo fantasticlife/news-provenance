@@ -1,0 +1,1 @@
+xml.edge( 'id' => edge.id, 'source' => edge.source_article_id, 'target' => edge.target_article_id, 'weight' => edge.similarity_score )

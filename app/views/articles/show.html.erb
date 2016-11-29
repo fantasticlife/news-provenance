@@ -1,0 +1,46 @@
+<div class="section">
+	<%= content_tag( 'h1', @article.title ) %>
+	<%= content_tag( 'p', @article.synopsis ) %>
+	<table>
+		<tbody>
+			<tr>
+				<%= content_tag( 'th', 'Source:' ) %>
+				<%= content_tag( 'td', link_to( @article.source.title, sources_show_url( :source => @article.source ) ) ) %>
+			</tr>
+			<tr>
+				<%= content_tag( 'th', 'URL:' ) %>
+				<%= content_tag( 'td', link_to( @article.url, @article.url) ) %>
+			</tr>
+			<tr>
+				<%= content_tag( 'th', 'Published at:' ) %>
+				<%= content_tag( 'td', @article.published_at.strftime( '%d/%m/%Y @ %H:%M' ) ) %>
+			</tr>
+			<tr>
+				<%= content_tag( 'th', 'Sentiment:' ) %>
+				<%= content_tag( 'td', @article.sentiment_1 ) %>
+			</tr>
+			<tr>
+				<%= content_tag( 'th', 'Subjectivity:' ) %>
+				<%= content_tag( 'td', @article.sentiment_2 ) %>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="section">
+	<%= content_tag( 'h2', 'Elsewhere' ) %>
+	<table>
+		<thead>
+			<tr>
+				<%= content_tag( 'td', 'Similarity' ) %>
+				<%= content_tag( 'td', 'Source' ) %>
+				<%= content_tag( 'td', 'Article' ) %>
+				<%= content_tag( 'td', 'Published at' ) %>
+				<%= content_tag( 'td', 'Sentiment' ) %>
+				<%= content_tag( 'td', 'Subjectivity' ) %>
+			</tr>
+		</thead>
+		<tbody>
+			<%= render :partial => 'similar_article', :collection => @article.article_similarities %>
+		</tbody>
+	</table>
+</div>
