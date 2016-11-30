@@ -52,3 +52,11 @@ task :import => :environment do
     end
   end
 end
+task :import_source_similarities => :environment do
+  puts "importing source similarities"
+  file = File.read('db/sources.json')
+  json = JSON.parse( file )
+  json.each do |similarity|
+    puts similarity
+  end
+end

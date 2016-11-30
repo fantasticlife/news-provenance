@@ -9,7 +9,6 @@ class Entity < ActiveRecord::Base
       .where( "articles.id = extracted_entities.article_id and extracted_entities.entity_id = ? and extracted_entities.score > ?", self, 0.6)
       .order( 'published_at desc' )
   end
-  
   def source_articles( source )
     Article.select( 'articles.*' )
       .joins( 'as articles, extracted_entities' )

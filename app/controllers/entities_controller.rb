@@ -19,6 +19,12 @@ class EntitiesController < ApplicationController
   def show
     entity = params[:entity]
     @entity = Entity.find( entity )
+    @cooccurrent_entities = @entity.cooccurrent_entities
+    unless @cooccurrent_entities.empty?
+      @min_count = @cooccurrent_entities.last.count
+      @max_count = @cooccurrent_entities.first.count
+      @cooccurrent_entities = @cooccurrent_entities.sort_by { |e| e.name }
+    end
     @section = 'entities'
   end
 end

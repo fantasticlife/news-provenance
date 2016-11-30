@@ -9,7 +9,7 @@
 </div>
 <div class="section">
 	<%= content_tag( 'h2', 'Co-occurrent entities' ) %>
-	<ol>
-		<%= render :partial => 'entity', :collection => @entity.cooccurrent_entities %>
+	<ol class="tag-cloud cm">
+		<%= render :partial => 'entity_for_cloud', :collection => @cooccurrent_entities %>
 	</ol>
 </div>
