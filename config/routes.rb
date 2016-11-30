@@ -8,9 +8,15 @@ Rails.application.routes.draw do
   get '/sources' => 'sources#index', :as => :sources_list
   get '/sources/:source' => 'sources#show', :as => :sources_show
   
+  get '/sources/:source/entities' => 'source_entities#index', :as => :source_entities_list
+  get '/sources/:source/entities/:entity' => 'source_entities#show', :as => :source_entities_show
+  
   get '/articles' => 'articles#index', :as => :articles_list
   get '/articles/by' => 'articles#by_url', :as => :articles_by_url
   get '/articles/:article' => 'articles#show', :as => :articles_show
+  
+  get '/entities' => 'entities#index', :as => :entities_list
+  get '/entities/:entity' => 'entities#show', :as => :entities_show
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

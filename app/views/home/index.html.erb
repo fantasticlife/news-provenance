@@ -1,1 +1,5 @@
-<%= content_tag( 'h1', 'Not much to see here' )%>
+<%= content_tag( 'h1', 'Attempting to establish provenance from news article similarity' )%>
+<%= content_tag( 'p', "A hack by #{link_to( 'Tristan Ferne', 'https://twitter.com/tristanf' )}, #{link_to( 'Ian Knopke', 'https://twitter.com/ekponk' )} and #{link_to( 'Michael Smethurst', 'https://twitter.com/fantasticlife' )} for the #{link_to( 'Trust Project Challenge', 'http://www.bbc.co.uk/connectedstudio/events/trust-project-challenge' )}. Using document similarity, entity extraction and sentiment analysis. Articles taken from #{link_to( 'BBC News Labs', 'http://bbcnewslabs.co.uk/')} #{link_to( 'Juicer Project', 'http://bbcnewslabs.co.uk/projects/juicer/')} for 14th October 2016.".html_safe)%>
+<%= content_tag( 'p', 'Works on my machine. Probably times out on Heroku.' ) %>
+
+<%= image_tag( 'provenance.png' ) %>

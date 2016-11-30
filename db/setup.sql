@@ -8,7 +8,6 @@ drop table if exists sources;
 create table sources (
 	id serial,
 	title varchar(255) not null,
-	url varchar(255),
 	primary key (id)
 );
 create table source_similarities (
@@ -24,7 +23,6 @@ create table articles (
 	id serial,
 	title varchar(255) not null,
 	url varchar(255),
-	synopsis text,
 	published_at timestamp,
 	sentiment_1 float,
 	sentiment_2 float,

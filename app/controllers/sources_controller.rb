@@ -10,5 +10,11 @@ class SourcesController < ApplicationController
     @section = 'sources'
     source = params[:source]
     @source = Source.find(source)
+    @entities = @source.entities
+    unless @entities.empty?
+      @min_count = @entities.last.count
+      @max_count = @entities.first.count
+      @entities = @entities.sort_by { |e| e.name }
+    end
   end
 end

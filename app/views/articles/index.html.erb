@@ -2,3 +2,4 @@
 <ol>
 	<%= render :partial => 'article', :collection => @articles %>
 </ol>
+<%= content_tag( 'p', link_to( 'GEXF co-occurence XML', articles_list_url( :format => 'xml' ) ) ) %>

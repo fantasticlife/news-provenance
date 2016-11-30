@@ -4,10 +4,10 @@ xml.gexf( 'xmlns' => 'http://www.gexf.net/1.2draft', 'xmlns:xsi' => 'http://www.
   xml.graph( 'mode' => 'static', 'defaultedgetype' => 'directed' ) do
     xml.nodes do
       xml.node( 'id' => @article.id, 'label' => @article.title )
-      xml << render( :partial => 'article_node', :collection => @article.article_similarities )
+      xml << render( :partial => 'article_node', :collection => @article.article_similarities ) unless @article.article_similarities.empty?
     end
     xml.edges do
-      xml << render( :partial => 'edge', :collection => @article.article_similarities )
+      xml << render( :partial => 'edge', :collection => @article.article_similarities ) unless @article.article_similarities.empty?
     end
   end
 end

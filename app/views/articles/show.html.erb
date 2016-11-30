@@ -1,6 +1,5 @@
 <div class="section">
 	<%= content_tag( 'h1', @article.title ) %>
-	<%= content_tag( 'p', @article.synopsis ) %>
 	<table>
 		<tbody>
 			<tr>
@@ -43,4 +42,12 @@
 			<%= render :partial => 'similar_article', :collection => @article.article_similarities %>
 		</tbody>
 	</table>
+	<%= content_tag( 'p', link_to( 'GEXF co-occurence XML', articles_show_url( :format => 'xml' ) ) ) %>
+	<%= content_tag( 'p', link_to( 'JSON (by article URL)', articles_by_url_url( :url => @article.url, :format => 'json' ) ) ) %>
+</div>
+<div class="section">
+	<%= content_tag( 'h2', 'Entities' ) %>
+	<ol>
+		<%= render :partial => 'entities/entity', :collection => @article.entities %>
+	</ol>
 </div>

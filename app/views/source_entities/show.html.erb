@@ -1,0 +1,9 @@
+<div class="section">
+	<%= content_tag( 'h1', "#{@entity.name} from #{@source.title}" ) %>
+</div>
+<div class="section">
+	<%= content_tag( 'h2', 'Articles' ) %>
+	<ol>
+		<%= render :partial => 'articles/article', :collection => @entity.source_articles( @source ) %>
+	</ol>
+</div>

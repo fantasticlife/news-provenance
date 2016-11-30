@@ -1,0 +1,1 @@
+<%= link_to( entity_for_cloud.name, source_entities_show_url( :entity => entity_for_cloud ), :class => "cloud-#{class_for_tag_cloud( entity_for_cloud.count, @min_count, @max_count ) }", :title => "#{entity_for_cloud.count} articles tagged with #{entity_for_cloud.name}" ) %>

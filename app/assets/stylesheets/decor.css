@@ -36,6 +36,10 @@ body * {
 	background-color: #fff;
 	color: #000;
 }
+.section-entities .section-entities {
+	background-color: #fff;
+	color: #000;
+}
 
 /* main */
 .main {

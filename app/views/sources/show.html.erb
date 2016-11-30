@@ -1,15 +1,12 @@
 <div class="section">
 	<%= content_tag( 'h1', @source.title ) %>
-	<%= content_tag( 'p', link_to( @source.url, @source.url ) ) %>
 </div>
-
 <div class="section">
 	<%= content_tag( 'h2', 'Articles' ) %>
 	<ol>
 		<%= render :partial => 'articles/article', :collection => @source.articles %>
 	</ol>
 </div>
-
 <div class="section">
 	<%= content_tag( 'h2', 'Similar sources' ) %>
 	<table>
@@ -23,4 +20,10 @@
 			<%= render :partial => 'similar_source', :collection => @source.source_similarities %>
 		</tbody>
 	</table>
+</div>
+<div class="section">
+	<%= content_tag( 'h2', 'Entities' ) %>
+	<ol class="tag-cloud cm">
+		<%= render :partial => 'source_entities/entity_for_cloud', :collection => @entities %>
+	</ol>
 </div>

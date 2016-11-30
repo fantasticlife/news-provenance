@@ -1,0 +1,4 @@
+<%= content_tag( 'h1', "#{@source.title} entities" ) %>
+<ol class="tag-cloud cm">
+	<%= render :partial => 'entity_for_cloud', :collection => @entities %>
+</ol>

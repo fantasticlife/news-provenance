@@ -14,3 +14,14 @@ insert into article_similarities (source_article_id, target_article_id, similari
 	
 insert into source_similarities (source_source_id, target_source_id, similarity_score) values (1, 2, 0.5);
 insert into source_similarities (source_source_id, target_source_id, similarity_score) values (1, 3, 0.5);
+	
+insert into entities (name) values ('cat');
+insert into entities (name) values ('dog');
+insert into entities (name) values ('fish');
+	
+insert into extracted_entities (article_id, entity_id, score) values (1, 1, 0.7);
+insert into extracted_entities (article_id, entity_id, score) values (2, 1, 0.7);
+insert into extracted_entities (article_id, entity_id, score) values (3, 1, 0.7);
+insert into extracted_entities (article_id, entity_id, score) values (2, 2, 0.7);
+insert into extracted_entities (article_id, entity_id, score) values (3, 2, 0.7);
+insert into extracted_entities (article_id, entity_id, score) values (1, 3, 0.7);
