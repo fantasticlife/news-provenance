@@ -57,6 +57,22 @@ task :import_source_similarities => :environment do
   file = File.read('db/sources.json')
   json = JSON.parse( file )
   json.each do |similarity|
-    puts similarity
+    similarity.each do |similarity|
+      source_source_name = similarity['source_name']
+      source_source = Source.where( :title => source_source_name ).first
+      if similarity['similar'].class == Array
+       
+      
+      similarity['similar'].each do |similar|
+        target_source_name = similar[1]
+        target_source = Source.where( :title => target_source_name ).first
+        source_similarity = SourceSimilarity.new
+        source_similarity.source_source_id = source_source.id
+        source_similarity.target_source_id = target_source.id
+        source_similarity.similarity_score = similar[2]
+        source_similarity.save
+      end
+    end
+    end
   end
 end

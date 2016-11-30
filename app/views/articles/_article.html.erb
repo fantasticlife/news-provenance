@@ -1,4 +1,5 @@
 <li>
 	<%= content_tag( 'h3', link_to( article.title, articles_show_url( :article => article ) ) ) %>
+	<%= content_tag( 'p', link_to( article.source.title, sources_show_url( :source => article.source ) ) ) %>
 	<%= content_tag( 'p', article.published_at.strftime( '%d/%m/%Y @ %H:%M' ) ) %>
 </li>

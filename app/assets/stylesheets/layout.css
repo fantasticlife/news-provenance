@@ -66,7 +66,7 @@
 .main p.tip {
 	padding-bottom: 0;
 }
-.main li p {
+.main li p, .main li, .main table {
 	padding-bottom: .5em;
 }
 

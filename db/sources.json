@@ -1,0 +1,6622 @@
+{
+    "1": {
+        "similar": [
+            [
+                1, 
+                "BBC News", 
+                0.3337338330905072
+            ], 
+            [
+                287, 
+                "Edmonton Sun", 
+                0.011924753147072134
+            ], 
+            [
+                449, 
+                "Dominican Today", 
+                0.011785922207086193
+            ], 
+            [
+                146, 
+                "Eyewitness News", 
+                0.011593678316640104
+            ], 
+            [
+                160, 
+                "The Times", 
+                0.01150264011063501
+            ]
+        ], 
+        "source_name": "BBC News"
+    }, 
+    "2": {
+        "similar": [
+            [
+                2, 
+                "B31 Voices", 
+                1.0000000000000004
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.22035735105482554
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.21532189310780395
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.17158019981370565
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.17158019981370565
+            ]
+        ], 
+        "source_name": "B31 Voices"
+    }, 
+    "4": {
+        "similar": [
+            [
+                58, 
+                "Manchester Evening News", 
+                0.33957280095496495
+            ], 
+            [
+                292, 
+                "The Hamilton Spectator", 
+                0.3334501534440654
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.3264908234572385
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.3222841997497823
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.321429209847972
+            ]
+        ], 
+        "source_name": "Birmingham Mail"
+    }, 
+    "5": {
+        "similar": [
+            [
+                308, 
+                "South China Morning Post", 
+                0.20822689656094334
+            ], 
+            [
+                61, 
+                "The Argus (Brighton)", 
+                0.19658265742320713
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.19003291466343103
+            ], 
+            [
+                24, 
+                "STV", 
+                0.1881907033750039
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.18667238791652319
+            ]
+        ], 
+        "source_name": "Birmingham Post"
+    }, 
+    "6": {
+        "similar": [
+            [
+                24, 
+                "STV", 
+                0.24334334393973062
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.24205844155789738
+            ], 
+            [
+                61, 
+                "The Argus (Brighton)", 
+                0.23766028658101113
+            ], 
+            [
+                238, 
+                "The Hawick News", 
+                0.22984219627180164
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.21775357019989394
+            ]
+        ], 
+        "source_name": "Dudley"
+    }, 
+    "7": {
+        "similar": [
+            [
+                45, 
+                "Daily Express", 
+                0.9091705156973626
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.5992161448446992
+            ], 
+            [
+                58, 
+                "Manchester Evening News", 
+                0.4240198267826913
+            ], 
+            [
+                42, 
+                "The Daily Telegraph", 
+                0.3720281820778423
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.3576397611535051
+            ]
+        ], 
+        "source_name": "Express Star"
+    }, 
+    "9": {
+        "similar": [
+            [
+                6, 
+                "Dudley", 
+                0.9999999999999992
+            ], 
+            [
+                13, 
+                "Stourbridge", 
+                0.9999999999999992
+            ], 
+            [
+                54, 
+                "Teeside Gazette", 
+                0.4778186979827539
+            ], 
+            [
+                55, 
+                "Leicester Mercury", 
+                0.31841246056357975
+            ], 
+            [
+                66, 
+                "The Sentinel (Staffordshire)", 
+                0.2779162828031236
+            ]
+        ], 
+        "source_name": "Halesowen"
+    }, 
+    "11": {
+        "similar": [
+            [
+                45, 
+                "Daily Express", 
+                0.5468235371415254
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.4222803133735412
+            ], 
+            [
+                69, 
+                "The Herald (Plymouth)", 
+                0.41267455145348697
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.3996686592355184
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.39226335474512336
+            ]
+        ], 
+        "source_name": "The Huffington Post"
+    }, 
+    "12": {
+        "similar": [
+            [
+                471, 
+                "The Indian Express", 
+                0.8941622325788549
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.63670052233772
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.6083383805419244
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.6083383805419244
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.6083383805419244
+            ]
+        ], 
+        "source_name": "The Mirror"
+    }, 
+    "13": {
+        "similar": [
+            [
+                6, 
+                "Dudley", 
+                0.9999999999999992
+            ], 
+            [
+                9, 
+                "Halesowen", 
+                0.9999999999999992
+            ], 
+            [
+                54, 
+                "Teeside Gazette", 
+                0.4778186979827539
+            ], 
+            [
+                55, 
+                "Leicester Mercury", 
+                0.31841246056357975
+            ], 
+            [
+                66, 
+                "The Sentinel (Staffordshire)", 
+                0.2779162828031236
+            ]
+        ], 
+        "source_name": "Stourbridge"
+    }, 
+    "14": {
+        "similar": [
+            [
+                20, 
+                "Irish Independent", 
+                0.8996048251100466
+            ], 
+            [
+                190, 
+                "Limerick Post", 
+                0.26464530554854127
+            ], 
+            [
+                180, 
+                "Irish Examiner", 
+                0.25048688287001963
+            ], 
+            [
+                59, 
+                "Derby Telegraph", 
+                0.2096727437296073
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.1974902701850907
+            ]
+        ], 
+        "source_name": "The Irish Times"
+    }, 
+    "15": {
+        "similar": [
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.27498300490060285
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.272245136682746
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.2683521314789182
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.26726631312147014
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.26600792975549215
+            ]
+        ], 
+        "source_name": "Belfast Telegraph"
+    }, 
+    "17": {
+        "similar": [
+            [
+                289, 
+                "Winnipeg Free Press", 
+                0.271229637746727
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.26573156417524396
+            ], 
+            [
+                66, 
+                "The Sentinel (Staffordshire)", 
+                0.2595652981412892
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.2590421737369593
+            ], 
+            [
+                64, 
+                "Nottingham Post", 
+                0.25208976012070683
+            ]
+        ], 
+        "source_name": "Huddersfield Examiner"
+    }, 
+    "18": {
+        "similar": [
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2394242142607687
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2394242142607687
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.23187239951302657
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.2312464601635365
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.22964255598451166
+            ]
+        ], 
+        "source_name": "York Press"
+    }, 
+    "20": {
+        "similar": [
+            [
+                43, 
+                "Daily Mail", 
+                0.6643751264407326
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.5495872193686494
+            ], 
+            [
+                4, 
+                "Birmingham Mail", 
+                0.5495872193686494
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.5495872193686494
+            ], 
+            [
+                15, 
+                "Belfast Telegraph", 
+                0.48696403155541357
+            ]
+        ], 
+        "source_name": "Irish Independent"
+    }, 
+    "21": {
+        "similar": [
+            [
+                20, 
+                "Irish Independent", 
+                0.3868250339754007
+            ], 
+            [
+                14, 
+                "The Irish Times", 
+                0.3730382754371476
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.22092522255621877
+            ], 
+            [
+                42, 
+                "The Daily Telegraph", 
+                0.18004695820329805
+            ], 
+            [
+                460, 
+                "Business Today ", 
+                0.16164889616735473
+            ]
+        ], 
+        "source_name": "RTE"
+    }, 
+    "22": {
+        "similar": [
+            [
+                471, 
+                "The Indian Express", 
+                0.16264773117260795
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.14957465925643523
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.14718007029507058
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.146202360240412
+            ], 
+            [
+                59, 
+                "Derby Telegraph", 
+                0.14605855899199366
+            ]
+        ], 
+        "source_name": "Daily Record"
+    }, 
+    "23": {
+        "similar": [
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.7705407252439375
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.7013132368888123
+            ], 
+            [
+                308, 
+                "South China Morning Post", 
+                0.5552939116477928
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.543780590922101
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.543780590922101
+            ]
+        ], 
+        "source_name": "The Scotsman"
+    }, 
+    "24": {
+        "similar": [
+            [
+                43, 
+                "Daily Mail", 
+                0.6487980681417302
+            ], 
+            [
+                23, 
+                "The Scotsman", 
+                0.6073242840837704
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.5959784169041349
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.4054854060351659
+            ], 
+            [
+                24, 
+                "STV", 
+                0.3043182592227906
+            ]
+        ], 
+        "source_name": "STV"
+    }, 
+    "30": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.30772773856194147
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.307426118210757
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3053832399565687
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.3010215496827969
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.29566266059322227
+            ]
+        ], 
+        "source_name": "Rotherham Advertiser"
+    }, 
+    "34": {
+        "similar": [
+            [
+                371, 
+                "Fox News", 
+                0.38702432133048525
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.3690199610363353
+            ], 
+            [
+                290, 
+                "National Post", 
+                0.36218159584751447
+            ], 
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.36037103599471465
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.3570922989012058
+            ]
+        ], 
+        "source_name": "Standard Media"
+    }, 
+    "37": {
+        "similar": [
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.30140760276841366
+            ], 
+            [
+                274, 
+                "ABC", 
+                0.2783879615356297
+            ], 
+            [
+                369, 
+                "CNN", 
+                0.2729356544961599
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.26826105148385976
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.2665513735048181
+            ]
+        ], 
+        "source_name": "Channels TV"
+    }, 
+    "39": {
+        "similar": [
+            [
+                364, 
+                "Tampa Bay Times", 
+                0.23516716842846083
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.20336881017362685
+            ], 
+            [
+                464, 
+                "Economic Times", 
+                0.19170380369329093
+            ], 
+            [
+                88, 
+                "France24", 
+                0.18895817963732353
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.18394259402333646
+            ]
+        ], 
+        "source_name": "Tech Moran"
+    }, 
+    "40": {
+        "similar": [
+            [
+                7, 
+                "Express Star", 
+                0.44033292773209487
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.4395256524738149
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.40229633267705706
+            ], 
+            [
+                102, 
+                "Nigeria News24", 
+                0.3705721843746234
+            ], 
+            [
+                88, 
+                "France24", 
+                0.36998278818298536
+            ]
+        ], 
+        "source_name": "Metro"
+    }, 
+    "42": {
+        "similar": [
+            [
+                22, 
+                "Daily Record", 
+                0.23584752432279213
+            ], 
+            [
+                58, 
+                "Manchester Evening News", 
+                0.23538649860231434
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.23341361300823438
+            ], 
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.22784107408678195
+            ], 
+            [
+                292, 
+                "The Hamilton Spectator", 
+                0.2250302048491842
+            ]
+        ], 
+        "source_name": "The Daily Telegraph"
+    }, 
+    "43": {
+        "similar": [
+            [
+                44, 
+                "London Evening Standard", 
+                0.4994898268642704
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.3594787988817071
+            ], 
+            [
+                4, 
+                "Birmingham Mail", 
+                0.3594787988817071
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.3594787988817071
+            ], 
+            [
+                54, 
+                "Teeside Gazette", 
+                0.3594787988817071
+            ]
+        ], 
+        "source_name": "Daily Mail"
+    }, 
+    "44": {
+        "similar": [
+            [
+                40, 
+                "Metro", 
+                0.41962064647120234
+            ], 
+            [
+                7, 
+                "Express Star", 
+                0.3780300781219377
+            ], 
+            [
+                44, 
+                "London Evening Standard", 
+                0.37601497156783265
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.3753898883942187
+            ], 
+            [
+                4, 
+                "Birmingham Mail", 
+                0.3512483665513781
+            ]
+        ], 
+        "source_name": "London Evening Standard"
+    }, 
+    "45": {
+        "similar": [
+            [
+                264, 
+                "Herald Scotland", 
+                0.5865737822458478
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.4927093883893889
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.4754417947296847
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.43365205530880074
+            ], 
+            [
+                1, 
+                "BBC News", 
+                0.40357266485272614
+            ]
+        ], 
+        "source_name": "Daily Express"
+    }, 
+    "46": {
+        "similar": [
+            [
+                264, 
+                "Herald Scotland", 
+                0.6701971190223984
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.4902715505970685
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.4679659661403696
+            ], 
+            [
+                42, 
+                "The Daily Telegraph", 
+                0.4361924279759929
+            ], 
+            [
+                1, 
+                "BBC News", 
+                0.4287518346581673
+            ]
+        ], 
+        "source_name": "Daily Star"
+    }, 
+    "47": {
+        "similar": [
+            [
+                50, 
+                "Liverpool Echo", 
+                0.2148167625363284
+            ], 
+            [
+                47, 
+                "South Wales Evening Post", 
+                0.21184321611446705
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.20115930560477985
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.1921207972047819
+            ], 
+            [
+                18, 
+                "York Press", 
+                0.18922489543763876
+            ]
+        ], 
+        "source_name": "South Wales Evening Post"
+    }, 
+    "48": {
+        "similar": [
+            [
+                23, 
+                "The Scotsman", 
+                0.7723029539430032
+            ], 
+            [
+                47, 
+                "South Wales Evening Post", 
+                0.7402298724330026
+            ], 
+            [
+                24, 
+                "STV", 
+                0.5610692640079824
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.514319130239239
+            ], 
+            [
+                68, 
+                "Bournemouth Daily Echo", 
+                0.48614821752701376
+            ]
+        ], 
+        "source_name": "Bristol Post"
+    }, 
+    "49": {
+        "similar": [
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.4548750209949439
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.41269235745659505
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.4026331585176105
+            ], 
+            [
+                55, 
+                "Leicester Mercury", 
+                0.3829891462019745
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.3620034811430154
+            ]
+        ], 
+        "source_name": "Hull Daily Mail"
+    }, 
+    "50": {
+        "similar": [
+            [
+                78, 
+                "The Globe and Mail", 
+                0.40202961613589083
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.34933830859450765
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.3375368051762832
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.3260641716834617
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.31899002930347875
+            ]
+        ], 
+        "source_name": "Liverpool Echo"
+    }, 
+    "52": {
+        "similar": [
+            [
+                69, 
+                "The Herald (Plymouth)", 
+                0.29034899266016123
+            ], 
+            [
+                55, 
+                "Leicester Mercury", 
+                0.28677107741029634
+            ], 
+            [
+                92, 
+                "Isle of Man Today", 
+                0.2672618922887194
+            ], 
+            [
+                54, 
+                "Teeside Gazette", 
+                0.24472843442741551
+            ], 
+            [
+                7, 
+                "Express Star", 
+                0.2386001578113026
+            ]
+        ], 
+        "source_name": "The Echo (Essex)"
+    }, 
+    "53": {
+        "similar": [
+            [
+                65, 
+                "South Wales Echo", 
+                0.15038447279661504
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.1368435580552566
+            ], 
+            [
+                24, 
+                "STV", 
+                0.13672653402845375
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.13469942840204435
+            ], 
+            [
+                53, 
+                "The Bolton News", 
+                0.13247140777577032
+            ]
+        ], 
+        "source_name": "The Bolton News"
+    }, 
+    "54": {
+        "similar": [
+            [
+                40, 
+                "Metro", 
+                0.33285457858957057
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.29322465272263365
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.2870950839013083
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2848636791249048
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2848636791249048
+            ]
+        ], 
+        "source_name": "Teeside Gazette"
+    }, 
+    "55": {
+        "similar": [
+            [
+                55, 
+                "Leicester Mercury", 
+                0.5641826004491397
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.380985091724924
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.36789701424084
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.35127644820767534
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.34119218952790836
+            ]
+        ], 
+        "source_name": "Leicester Mercury"
+    }, 
+    "56": {
+        "similar": [
+            [
+                65, 
+                "South Wales Echo", 
+                0.32920016030182087
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.30738865755848677
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.30738865755848677
+            ], 
+            [
+                4, 
+                "Birmingham Mail", 
+                0.2935520464126033
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.2922204800834894
+            ]
+        ], 
+        "source_name": "Coventry Telegraph"
+    }, 
+    "58": {
+        "similar": [
+            [
+                58, 
+                "Manchester Evening News", 
+                0.4503202375664145
+            ], 
+            [
+                88, 
+                "France24", 
+                0.4238619359059632
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.3978898456234108
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3917042068808944
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.3917042068808944
+            ]
+        ], 
+        "source_name": "Manchester Evening News"
+    }, 
+    "59": {
+        "similar": [
+            [
+                132, 
+                "The Punch", 
+                0.2765322775160841
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.26217323272510606
+            ], 
+            [
+                58, 
+                "Manchester Evening News", 
+                0.26026420733213307
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.25992109125290014
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.2596096603106257
+            ]
+        ], 
+        "source_name": "Derby Telegraph"
+    }, 
+    "60": {
+        "similar": [
+            [
+                43, 
+                "Daily Mail", 
+                0.31857702270614147
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.3064625172680416
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.29336531847082215
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.29176055530974937
+            ], 
+            [
+                1, 
+                "BBC News", 
+                0.2909428626330506
+            ]
+        ], 
+        "source_name": "Bradford Telegraph and Argus"
+    }, 
+    "61": {
+        "similar": [
+            [
+                43, 
+                "Daily Mail", 
+                0.21485414981724238
+            ], 
+            [
+                1, 
+                "BBC News", 
+                0.2056369547818076
+            ], 
+            [
+                4, 
+                "Birmingham Mail", 
+                0.198231393788496
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.198231393788496
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.198231393788496
+            ]
+        ], 
+        "source_name": "The Argus (Brighton)"
+    }, 
+    "62": {
+        "similar": [
+            [
+                7, 
+                "Express Star", 
+                0.6743781875391104
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.620258596742649
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.5304024381052538
+            ], 
+            [
+                58, 
+                "Manchester Evening News", 
+                0.42742686646816463
+            ], 
+            [
+                62, 
+                "Southern Daily Echo", 
+                0.3772452965100273
+            ]
+        ], 
+        "source_name": "Southern Daily Echo"
+    }, 
+    "63": {
+        "similar": [
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.34703194103363055
+            ], 
+            [
+                64, 
+                "Nottingham Post", 
+                0.3231746720058771
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3076138094020299
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.3076138094020299
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.3059086674703843
+            ]
+        ], 
+        "source_name": "Edinburgh Evening News"
+    }, 
+    "64": {
+        "similar": [
+            [
+                78, 
+                "The Globe and Mail", 
+                0.39743269864762193
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.2860074963229546
+            ], 
+            [
+                295, 
+                "Calgary Herald", 
+                0.2840578909883116
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.28383216503728853
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2276232466483103
+            ]
+        ], 
+        "source_name": "Nottingham Post"
+    }, 
+    "65": {
+        "similar": [
+            [
+                50, 
+                "Liverpool Echo", 
+                0.2846581332780991
+            ], 
+            [
+                17, 
+                "Huddersfield Examiner", 
+                0.24605044342396207
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.21862080795100844
+            ], 
+            [
+                40, 
+                "Metro", 
+                0.17148048713634206
+            ], 
+            [
+                291, 
+                "Montreal Gazette", 
+                0.16890798906924429
+            ]
+        ], 
+        "source_name": "South Wales Echo"
+    }, 
+    "66": {
+        "similar": [
+            [
+                66, 
+                "The Sentinel (Staffordshire)", 
+                0.721304070767013
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.2886070287543373
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.26393072719336613
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2591674962462721
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2591674962462721
+            ]
+        ], 
+        "source_name": "The Sentinel (Staffordshire)"
+    }, 
+    "67": {
+        "similar": [
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.36262878260043835
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.36262878260043835
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.33767098188386235
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.324712383064998
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.3239303662228111
+            ]
+        ], 
+        "source_name": "Sunderland Echo"
+    }, 
+    "68": {
+        "similar": [
+            [
+                292, 
+                "The Hamilton Spectator", 
+                0.3740757441789273
+            ], 
+            [
+                369, 
+                "CNN", 
+                0.3245418683685434
+            ], 
+            [
+                274, 
+                "ABC", 
+                0.30605387364707326
+            ], 
+            [
+                353, 
+                "Ulster Star", 
+                0.2940932043769616
+            ], 
+            [
+                344, 
+                "Dromore Leader", 
+                0.2940932043769616
+            ]
+        ], 
+        "source_name": "Bournemouth Daily Echo"
+    }, 
+    "69": {
+        "similar": [
+            [
+                313, 
+                "Auckland Now", 
+                0.21891926633351025
+            ], 
+            [
+                54, 
+                "Teeside Gazette", 
+                0.21635535918562182
+            ], 
+            [
+                18, 
+                "York Press", 
+                0.20916895808087282
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.20503788085030636
+            ], 
+            [
+                17, 
+                "Huddersfield Examiner", 
+                0.19786621226658882
+            ]
+        ], 
+        "source_name": "The Herald (Plymouth)"
+    }, 
+    "71": {
+        "similar": [
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.4252206916981037
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.4252206916981037
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.4063425651872152
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.3894669214578784
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.3874400888832514
+            ]
+        ], 
+        "source_name": "New Statesman"
+    }, 
+    "73": {
+        "similar": [
+            [
+                73, 
+                "Los Angeles Times", 
+                0.5227406647956753
+            ], 
+            [
+                380, 
+                "U-T San Diego", 
+                0.3939833321365388
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.3246897722150638
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.31456056606011096
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.2767965081494379
+            ]
+        ], 
+        "source_name": "Los Angeles Times"
+    }, 
+    "76": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.5595207955935669
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.5178113779253165
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.44320152856437434
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.3674378781096286
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.35614555974595596
+            ]
+        ], 
+        "source_name": "The Sydney Morning Herald"
+    }, 
+    "77": {
+        "similar": [
+            [
+                280, 
+                "The Canberra Times", 
+                0.9999999999999997
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.3214368825871932
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.32075612510868673
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.3175584370617706
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3165329430942637
+            ]
+        ], 
+        "source_name": "The Age"
+    }, 
+    "78": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.19233297522043458
+            ], 
+            [
+                151, 
+                "Independent Newspaper", 
+                0.18699424861385136
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.18061422301937682
+            ], 
+            [
+                138, 
+                "Business Report", 
+                0.1783164448079099
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.17782681981374548
+            ]
+        ], 
+        "source_name": "The Globe and Mail"
+    }, 
+    "84": {
+        "similar": [
+            [
+                20, 
+                "Irish Independent", 
+                0.4372913428689438
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.41975732853542536
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.3150069277425503
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.3018960783066766
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2853841409284233
+            ]
+        ], 
+        "source_name": "The Local (Denmark)"
+    }, 
+    "87": {
+        "similar": [
+            [
+                77, 
+                "The Age", 
+                0.5008709740942876
+            ], 
+            [
+                379, 
+                "The Denver Post", 
+                0.48928814670275417
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.48874791589228606
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.48578621201420924
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.4736631538122077
+            ]
+        ], 
+        "source_name": "The Daily Beast"
+    }, 
+    "88": {
+        "similar": [
+            [
+                157, 
+                "News24", 
+                0.997385806233294
+            ], 
+            [
+                88, 
+                "France24", 
+                0.38862410907145156
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.26675170436914775
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2491027292375702
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.24858165845869945
+            ]
+        ], 
+        "source_name": "France24"
+    }, 
+    "89": {
+        "similar": [
+            [
+                280, 
+                "The Canberra Times", 
+                0.22147624989450407
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.20932414074708428
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.20541224813859518
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.1969802841353981
+            ], 
+            [
+                466, 
+                "Free Press Journal", 
+                0.19474266159146023
+            ]
+        ], 
+        "source_name": "The New York Times"
+    }, 
+    "90": {
+        "similar": [
+            [
+                369, 
+                "CNN", 
+                0.4111904236530508
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.38224871693920515
+            ], 
+            [
+                308, 
+                "South China Morning Post", 
+                0.38043523620829955
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.37884936565204325
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.3749427979636066
+            ]
+        ], 
+        "source_name": "The Wall Street Journal"
+    }, 
+    "92": {
+        "similar": [
+            [
+                92, 
+                "Isle of Man Today", 
+                0.22489877801625735
+            ], 
+            [
+                24, 
+                "STV", 
+                0.16972164059284423
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.16592219808211894
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.1655703922561592
+            ], 
+            [
+                180, 
+                "Irish Examiner", 
+                0.16177091788561002
+            ]
+        ], 
+        "source_name": "Isle of Man Today"
+    }, 
+    "94": {
+        "similar": [
+            [
+                98, 
+                "The Star (Kenya)", 
+                0.3554169633822397
+            ], 
+            [
+                102, 
+                "Nigeria News24", 
+                0.2902201306254807
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.2397272852042139
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2031181481544936
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.20255565253873373
+            ]
+        ], 
+        "source_name": "Business Daily Africa"
+    }, 
+    "95": {
+        "similar": [
+            [
+                88, 
+                "France24", 
+                0.998461067985308
+            ], 
+            [
+                160, 
+                "The Times", 
+                0.7265125013014839
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.23139624448057183
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.22497481048856002
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2189451826714641
+            ]
+        ], 
+        "source_name": "Bangkok Post"
+    }, 
+    "96": {
+        "similar": [
+            [
+                22, 
+                "Daily Record", 
+                0.2544474756585534
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.24307025577265448
+            ], 
+            [
+                58, 
+                "Manchester Evening News", 
+                0.24120266625303635
+            ], 
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.23802464273388382
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.23527129085455334
+            ]
+        ], 
+        "source_name": "Daily Nation"
+    }, 
+    "98": {
+        "similar": [
+            [
+                94, 
+                "Business Daily Africa", 
+                0.3554169633822397
+            ], 
+            [
+                462, 
+                "Deccan Herald ", 
+                0.20091239127509267
+            ], 
+            [
+                168, 
+                "The Citizen, Tanzania", 
+                0.16434560336827927
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.15750532824545188
+            ], 
+            [
+                115, 
+                "Daily Guide Ghana", 
+                0.15400792546473452
+            ]
+        ], 
+        "source_name": "The Star (Kenya)"
+    }, 
+    "100": {
+        "similar": [
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.7050733491874911
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.5077265167336116
+            ], 
+            [
+                45, 
+                "Daily Express", 
+                0.480237845763702
+            ], 
+            [
+                129, 
+                "Nigerian Current", 
+                0.4686701834718955
+            ], 
+            [
+                100, 
+                "Daily Post (Nigeria)", 
+                0.45207708770048627
+            ]
+        ], 
+        "source_name": "Daily Post (Nigeria)"
+    }, 
+    "101": {
+        "similar": [
+            [
+                157, 
+                "News24", 
+                0.35924343870062214
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.34114373113943997
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.33430779937412525
+            ], 
+            [
+                130, 
+                "People's Daily", 
+                0.3202562702657651
+            ], 
+            [
+                37, 
+                "Channels TV", 
+                0.3181190635439272
+            ]
+        ], 
+        "source_name": "The Nation (Nigeria)"
+    }, 
+    "102": {
+        "similar": [
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.27168750873875674
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.26229943825460356
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2584046772912041
+            ], 
+            [
+                88, 
+                "France24", 
+                0.256615655261751
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.25437952408073655
+            ]
+        ], 
+        "source_name": "Nigeria News24"
+    }, 
+    "104": {
+        "similar": [
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.3426426910187669
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3403680007523037
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.33846472822430895
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.3275810697407059
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.3268846177528752
+            ]
+        ], 
+        "source_name": "This is Africa"
+    }, 
+    "112": {
+        "similar": [
+            [
+                40, 
+                "Metro", 
+                0.11425298337991555
+            ], 
+            [
+                159, 
+                "Sowetan Newspaper", 
+                0.08783287037594155
+            ], 
+            [
+                88, 
+                "France24", 
+                0.08489292587469331
+            ], 
+            [
+                309, 
+                "Dutch News", 
+                0.08331982454133166
+            ], 
+            [
+                160, 
+                "The Times", 
+                0.07835150345589063
+            ]
+        ], 
+        "source_name": "Digital Congo, Kinshasa"
+    }, 
+    "115": {
+        "similar": [
+            [
+                65, 
+                "South Wales Echo", 
+                0.22537980199850377
+            ], 
+            [
+                115, 
+                "Daily Guide Ghana", 
+                0.21939546624429487
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2176248618532143
+            ], 
+            [
+                308, 
+                "South China Morning Post", 
+                0.21425667751817298
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.20694622730788087
+            ]
+        ], 
+        "source_name": "Daily Guide Ghana"
+    }, 
+    "117": {
+        "similar": [
+            [
+                96, 
+                "Daily Nation", 
+                0.36074821848520194
+            ], 
+            [
+                456, 
+                "Budapest Business Journal", 
+                0.1937048714597022
+            ], 
+            [
+                160, 
+                "The Times", 
+                0.16705161887556091
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.1500005076169245
+            ], 
+            [
+                462, 
+                "Deccan Herald ", 
+                0.13835773873371218
+            ]
+        ], 
+        "source_name": "The East African Newspaper"
+    }, 
+    "121": {
+        "similar": [
+            [
+                121, 
+                "Morocco World News", 
+                0.27803855181680526
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.26630963545618724
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.22793987851198608
+            ], 
+            [
+                379, 
+                "The Denver Post", 
+                0.22048868059913995
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.22045118177534626
+            ]
+        ], 
+        "source_name": "Morocco World News"
+    }, 
+    "123": {
+        "similar": [
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.24784722117117036
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.24784722117117036
+            ], 
+            [
+                37, 
+                "Channels TV", 
+                0.23117142662444368
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.2275926251687579
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.2250478798858986
+            ]
+        ], 
+        "source_name": "Windhoek Observer"
+    }, 
+    "124": {
+        "similar": [
+            [
+                454, 
+                "Guyana Chronicle", 
+                0.36952373191098403
+            ], 
+            [
+                130, 
+                "People's Daily", 
+                0.35327960465842395
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.3514775138532565
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.30531567925967035
+            ], 
+            [
+                37, 
+                "Channels TV", 
+                0.29920838313575276
+            ]
+        ], 
+        "source_name": "Business News Lagos"
+    }, 
+    "127": {
+        "similar": [
+            [
+                130, 
+                "People's Daily", 
+                0.33172821375736244
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.24986485414212237
+            ], 
+            [
+                37, 
+                "Channels TV", 
+                0.24692527260673772
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.2374902573595495
+            ], 
+            [
+                128, 
+                "National Mirror", 
+                0.22727191885383524
+            ]
+        ], 
+        "source_name": "Leadership Newspaper"
+    }, 
+    "128": {
+        "similar": [
+            [
+                12, 
+                "The Mirror", 
+                0.26566136133620294
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.2542898517243873
+            ], 
+            [
+                100, 
+                "Daily Post (Nigeria)", 
+                0.2482246732324398
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.2462813907938165
+            ], 
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.2397708852338575
+            ]
+        ], 
+        "source_name": "National Mirror"
+    }, 
+    "129": {
+        "similar": [
+            [
+                132, 
+                "The Punch", 
+                0.7720592273270002
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.6259860873630406
+            ], 
+            [
+                45, 
+                "Daily Express", 
+                0.5877184756662406
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.5654522640600815
+            ], 
+            [
+                128, 
+                "National Mirror", 
+                0.537973069317519
+            ]
+        ], 
+        "source_name": "Nigerian Current"
+    }, 
+    "130": {
+        "similar": [
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.45912567588305636
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.33147814565082917
+            ], 
+            [
+                454, 
+                "Guyana Chronicle", 
+                0.32484694134198583
+            ], 
+            [
+                100, 
+                "Daily Post (Nigeria)", 
+                0.31150354116478485
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.30892340434349486
+            ]
+        ], 
+        "source_name": "People's Daily"
+    }, 
+    "132": {
+        "similar": [
+            [
+                37, 
+                "Channels TV", 
+                0.26889642101436945
+            ], 
+            [
+                100, 
+                "Daily Post (Nigeria)", 
+                0.255013355150893
+            ], 
+            [
+                151, 
+                "Independent Newspaper", 
+                0.24544748675518116
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.24029383134789048
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.23344398504302044
+            ]
+        ], 
+        "source_name": "The Punch"
+    }, 
+    "138": {
+        "similar": [
+            [
+                146, 
+                "Eyewitness News", 
+                0.4052116621854779
+            ], 
+            [
+                157, 
+                "News24", 
+                0.35482284862821206
+            ], 
+            [
+                159, 
+                "Sowetan Newspaper", 
+                0.326965088832269
+            ], 
+            [
+                160, 
+                "The Times", 
+                0.3212359349389724
+            ], 
+            [
+                148, 
+                "George Herald", 
+                0.28369305492824387
+            ]
+        ], 
+        "source_name": "Business Report"
+    }, 
+    "139": {
+        "similar": [
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.4459944022909516
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.4459944022909516
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.4158722358861656
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.4120549735254989
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.3978739388996977
+            ]
+        ], 
+        "source_name": "Cape Argus"
+    }, 
+    "141": {
+        "similar": [
+            [
+                271, 
+                "The West Australian", 
+                0.4392868613926944
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.42867883776364135
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.4174644733500932
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.4137557884120976
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.40744919401160623
+            ]
+        ], 
+        "source_name": "Cape Times"
+    }, 
+    "144": {
+        "similar": [
+            [
+                151, 
+                "Independent Newspaper", 
+                0.38868789637205253
+            ], 
+            [
+                160, 
+                "The Times", 
+                0.385994319091095
+            ], 
+            [
+                157, 
+                "News24", 
+                0.3395826767204819
+            ], 
+            [
+                159, 
+                "Sowetan Newspaper", 
+                0.3385081021754135
+            ], 
+            [
+                146, 
+                "Eyewitness News", 
+                0.3331103472021935
+            ]
+        ], 
+        "source_name": "Daily Maverick"
+    }, 
+    "145": {
+        "similar": [
+            [
+                375, 
+                "New York Post", 
+                0.47578972756329385
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3041552034792467
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.3041552034792467
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.29710728932791347
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.2872596686422388
+            ]
+        ], 
+        "source_name": "Daily News"
+    }, 
+    "146": {
+        "similar": [
+            [
+                155, 
+                "Mail and Guardian", 
+                0.6598265586221965
+            ], 
+            [
+                151, 
+                "Independent Newspaper", 
+                0.5011665817585405
+            ], 
+            [
+                159, 
+                "Sowetan Newspaper", 
+                0.49722527578833303
+            ], 
+            [
+                157, 
+                "News24", 
+                0.45965812738588463
+            ], 
+            [
+                146, 
+                "Eyewitness News", 
+                0.45657604467504415
+            ]
+        ], 
+        "source_name": "Eyewitness News"
+    }, 
+    "147": {
+        "similar": [
+            [
+                184, 
+                "Independent Ireland", 
+                0.3408204476571382
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.28816530133580603
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2843163780841541
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2780031854099693
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.274609602217604
+            ]
+        ], 
+        "source_name": "Gauteng Business News"
+    }, 
+    "148": {
+        "similar": [
+            [
+                434, 
+                "Daily Nation Barbados", 
+                0.29375745021655697
+            ], 
+            [
+                123, 
+                "Windhoek Observer", 
+                0.2885461189563195
+            ], 
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.2689326789146868
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.2649916460616343
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.2490212578349054
+            ]
+        ], 
+        "source_name": "George Herald"
+    }, 
+    "149": {
+        "similar": [
+            [
+                65, 
+                "South Wales Echo", 
+                0.15585329836887954
+            ], 
+            [
+                472, 
+                "Live Mint", 
+                0.13959780617160453
+            ], 
+            [
+                17, 
+                "Huddersfield Examiner", 
+                0.11062239745278336
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.10886340580879975
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.10609274715010328
+            ]
+        ], 
+        "source_name": "The Gremlin"
+    }, 
+    "151": {
+        "similar": [
+            [
+                159, 
+                "Sowetan Newspaper", 
+                0.5880518190437215
+            ], 
+            [
+                155, 
+                "Mail and Guardian", 
+                0.5843977730694759
+            ], 
+            [
+                157, 
+                "News24", 
+                0.5789224232645022
+            ], 
+            [
+                146, 
+                "Eyewitness News", 
+                0.5787262752760234
+            ], 
+            [
+                151, 
+                "Independent Newspaper", 
+                0.5509344572379126
+            ]
+        ], 
+        "source_name": "Independent Newspaper"
+    }, 
+    "155": {
+        "similar": [
+            [
+                155, 
+                "Mail and Guardian", 
+                0.8814174360988248
+            ], 
+            [
+                151, 
+                "Independent Newspaper", 
+                0.6495754919872181
+            ], 
+            [
+                146, 
+                "Eyewitness News", 
+                0.6220605751504394
+            ], 
+            [
+                157, 
+                "News24", 
+                0.6052680231511659
+            ], 
+            [
+                159, 
+                "Sowetan Newspaper", 
+                0.5444417335614306
+            ]
+        ], 
+        "source_name": "Mail and Guardian"
+    }, 
+    "157": {
+        "similar": [
+            [
+                102, 
+                "Nigeria News24", 
+                1.0000000000000004
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.25867182906317077
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.23398482357060565
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.23079419484769853
+            ], 
+            [
+                104, 
+                "This is Africa", 
+                0.2300285126886239
+            ]
+        ], 
+        "source_name": "News24"
+    }, 
+    "159": {
+        "similar": [
+            [
+                155, 
+                "Mail and Guardian", 
+                0.5583538989509194
+            ], 
+            [
+                157, 
+                "News24", 
+                0.5149657297818541
+            ], 
+            [
+                151, 
+                "Independent Newspaper", 
+                0.5051648055429517
+            ], 
+            [
+                146, 
+                "Eyewitness News", 
+                0.4823092181729959
+            ], 
+            [
+                159, 
+                "Sowetan Newspaper", 
+                0.4534437921446898
+            ]
+        ], 
+        "source_name": "Sowetan Newspaper"
+    }, 
+    "160": {
+        "similar": [
+            [
+                73, 
+                "Los Angeles Times", 
+                0.2762839846613505
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.26729832904543627
+            ], 
+            [
+                364, 
+                "Tampa Bay Times", 
+                0.26329255369193044
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.24501607425920344
+            ], 
+            [
+                308, 
+                "South China Morning Post", 
+                0.22841311029427078
+            ]
+        ], 
+        "source_name": "The Times"
+    }, 
+    "168": {
+        "similar": [
+            [
+                168, 
+                "The Citizen, Tanzania", 
+                0.3255200408779214
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.31059993291201676
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.29995457346587623
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.296613694747405
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2920482301355382
+            ]
+        ], 
+        "source_name": "The Citizen, Tanzania"
+    }, 
+    "173": {
+        "similar": [
+            [
+                362, 
+                "Las Vegas Review-Journal", 
+                0.2688810646409701
+            ], 
+            [
+                379, 
+                "The Denver Post", 
+                0.25223642695435733
+            ], 
+            [
+                369, 
+                "CNN", 
+                0.2514953007035709
+            ], 
+            [
+                308, 
+                "South China Morning Post", 
+                0.2505082220073435
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.244765319919554
+            ]
+        ], 
+        "source_name": "Newsday"
+    }, 
+    "175": {
+        "similar": [
+            [
+                47, 
+                "South Wales Evening Post", 
+                0.11247916672180609
+            ], 
+            [
+                7, 
+                "Express Star", 
+                0.07994031695961784
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.07916876314077391
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.07916876314077391
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.07878585608076619
+            ]
+        ], 
+        "source_name": "The Zimbabwean newspaper"
+    }, 
+    "177": {
+        "similar": [
+            [
+                24, 
+                "STV", 
+                0.3095267700464598
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.27730831420991675
+            ], 
+            [
+                59, 
+                "Derby Telegraph", 
+                0.25650498880149425
+            ], 
+            [
+                54, 
+                "Teeside Gazette", 
+                0.24093691170070858
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.19852724548773792
+            ]
+        ], 
+        "source_name": "Clare Champion Ireland"
+    }, 
+    "180": {
+        "similar": [
+            [
+                14, 
+                "The Irish Times", 
+                0.4483977996448594
+            ], 
+            [
+                289, 
+                "Winnipeg Free Press", 
+                0.3378716050930271
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.3194010296831731
+            ], 
+            [
+                318, 
+                "Dominion Post", 
+                0.31067582830063983
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.3077040759014925
+            ]
+        ], 
+        "source_name": "Irish Examiner"
+    }, 
+    "184": {
+        "similar": [
+            [
+                184, 
+                "Independent Ireland", 
+                0.41697846403201694
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.3718800850805881
+            ], 
+            [
+                90, 
+                "The Wall Street Journal", 
+                0.3489793835828374
+            ], 
+            [
+                21, 
+                "RTE", 
+                0.3147012543378959
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.3040596267600515
+            ]
+        ], 
+        "source_name": "Independent Ireland"
+    }, 
+    "190": {
+        "similar": [
+            [
+                381, 
+                "ABC News", 
+                0.23545480090544232
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.23378894583819876
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.23378894583819876
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2257025434362222
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.22531775945694255
+            ]
+        ], 
+        "source_name": "Limerick Post"
+    }, 
+    "198": {
+        "similar": [
+            [
+                354, 
+                "Krakow Post", 
+                0.180866929313859
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.1727087799881673
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.16754612815644154
+            ], 
+            [
+                139, 
+                "Cape Argus", 
+                0.16243830798721587
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.16196501119313425
+            ]
+        ], 
+        "source_name": "University OBSE"
+    }, 
+    "202": {
+        "similar": [
+            [
+                464, 
+                "Economic Times", 
+                0.19484619544852658
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.1892376948724305
+            ], 
+            [
+                454, 
+                "Guyana Chronicle", 
+                0.18537628035482892
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.1830457321085926
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.18098096973866915
+            ]
+        ], 
+        "source_name": "Arbroath Herald"
+    }, 
+    "207": {
+        "similar": [
+            [
+                22, 
+                "Daily Record", 
+                0.2969874315166528
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.21970494711245778
+            ], 
+            [
+                55, 
+                "Leicester Mercury", 
+                0.21900842379673538
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.21123475926082308
+            ], 
+            [
+                238, 
+                "The Hawick News", 
+                0.208886503472506
+            ]
+        ], 
+        "source_name": "The Berwickshire News"
+    }, 
+    "209": {
+        "similar": [
+            [
+                232, 
+                "Forfar Dispatch", 
+                1.0000000000000007
+            ], 
+            [
+                202, 
+                "Arbroath Herald", 
+                1.0000000000000007
+            ], 
+            [
+                246, 
+                "The Kirriemuir Herald", 
+                1.0000000000000007
+            ], 
+            [
+                253, 
+                "Montrose Review", 
+                1.0000000000000007
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.32222476373287146
+            ]
+        ], 
+        "source_name": "Brechin Advertiser"
+    }, 
+    "210": {
+        "similar": [
+            [
+                252, 
+                "Milngavie Herald ", 
+                1.0000000000000007
+            ], 
+            [
+                339, 
+                "Ballymoney & Moyle Times", 
+                1.0000000000000007
+            ], 
+            [
+                213, 
+                "Carnoustie Guide and Gazette", 
+                1.0000000000000007
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.3717259254248905
+            ], 
+            [
+                60, 
+                "Bradford Telegraph and Argus", 
+                0.3717259254248905
+            ]
+        ], 
+        "source_name": "Buchan Observer"
+    }, 
+    "211": {
+        "similar": [
+            [
+                92, 
+                "Isle of Man Today", 
+                1.0
+            ], 
+            [
+                88, 
+                "France24", 
+                0.27504276686150986
+            ], 
+            [
+                472, 
+                "Live Mint", 
+                0.19339295383396182
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.13594600960665296
+            ], 
+            [
+                2, 
+                "B31 Voices", 
+                0.13507812598690744
+            ]
+        ], 
+        "source_name": "The Buteman"
+    }, 
+    "213": {
+        "similar": [
+            [
+                202, 
+                "Arbroath Herald", 
+                1.0000000000000002
+            ], 
+            [
+                59, 
+                "Derby Telegraph", 
+                0.2275689271991325
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.20665414309029873
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.20665414309029873
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.2025996346525377
+            ]
+        ], 
+        "source_name": "Carnoustie Guide and Gazette"
+    }, 
+    "231": {
+        "similar": [
+            [
+                173, 
+                "Newsday", 
+                0.3335527039620434
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.3023275368989194
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.28252587327497003
+            ], 
+            [
+                59, 
+                "Derby Telegraph", 
+                0.27889317636994565
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2686852107706453
+            ]
+        ], 
+        "source_name": "Fife Today"
+    }, 
+    "232": {
+        "similar": [
+            [
+                202, 
+                "Arbroath Herald", 
+                1.0000000000000007
+            ], 
+            [
+                209, 
+                "Brechin Advertiser", 
+                1.0000000000000007
+            ], 
+            [
+                246, 
+                "The Kirriemuir Herald", 
+                1.0000000000000007
+            ], 
+            [
+                253, 
+                "Montrose Review", 
+                1.0000000000000007
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.32222476373287146
+            ]
+        ], 
+        "source_name": "Forfar Dispatch"
+    }, 
+    "234": {
+        "similar": [
+            [
+                23, 
+                "The Scotsman", 
+                0.42002638056115493
+            ], 
+            [
+                274, 
+                "ABC", 
+                0.2525331216199969
+            ], 
+            [
+                7, 
+                "Express Star", 
+                0.23609515576366524
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.23427537081116567
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.22791978778542474
+            ]
+        ], 
+        "source_name": "The Fraserburgh Herald"
+    }, 
+    "235": {
+        "similar": [
+            [
+                23, 
+                "The Scotsman", 
+                0.5062047018099538
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.33948210511504046
+            ], 
+            [
+                460, 
+                "Business Today ", 
+                0.29141635144111616
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.2881101694212456
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.28372439462049526
+            ]
+        ], 
+        "source_name": "The Galloway Gazette"
+    }, 
+    "238": {
+        "similar": [
+            [
+                262, 
+                "The Southern Reporter", 
+                0.6281669557651849
+            ], 
+            [
+                238, 
+                "The Hawick News", 
+                0.3100583620413639
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2906464696005563
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.28236189201074574
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.2726541553155046
+            ]
+        ], 
+        "source_name": "The Hawick News"
+    }, 
+    "241": {
+        "similar": [
+            [
+                15, 
+                "Belfast Telegraph", 
+                0.4572276086431302
+            ], 
+            [
+                7, 
+                "Express Star", 
+                0.418794463983879
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.4181623869029769
+            ], 
+            [
+                145, 
+                "Daily News", 
+                0.39655690940030636
+            ], 
+            [
+                24, 
+                "STV", 
+                0.39582371179163484
+            ]
+        ], 
+        "source_name": "The Inverness Courier"
+    }, 
+    "242": {
+        "similar": [
+            [
+                267, 
+                "The Kincardineshire Observer", 
+                0.9999999999999994
+            ], 
+            [
+                37, 
+                "Channels TV", 
+                0.2581810456698031
+            ], 
+            [
+                4, 
+                "Birmingham Mail", 
+                0.2520311565991745
+            ], 
+            [
+                462, 
+                "Deccan Herald ", 
+                0.25136257888175007
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.2397605539731803
+            ]
+        ], 
+        "source_name": "Inverurie Herald"
+    }, 
+    "244": {
+        "similar": [
+            [
+                12, 
+                "The Mirror", 
+                0.1781907959821285
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.16825214228870736
+            ], 
+            [
+                291, 
+                "Montreal Gazette", 
+                0.16152405225864164
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.15994432843154155
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.15938490248196274
+            ]
+        ], 
+        "source_name": "John O'Groat Journal"
+    }, 
+    "245": {
+        "similar": [
+            [
+                252, 
+                "Milngavie Herald ", 
+                0.9560660029916648
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.33195881855433784
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.32410221041998855
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.31952699092647724
+            ], 
+            [
+                294, 
+                "The London Free Press", 
+                0.3073175087548693
+            ]
+        ], 
+        "source_name": "The Kirkintilloch Herald"
+    }, 
+    "246": {
+        "similar": [
+            [
+                232, 
+                "Forfar Dispatch", 
+                1.0000000000000007
+            ], 
+            [
+                202, 
+                "Arbroath Herald", 
+                1.0000000000000007
+            ], 
+            [
+                209, 
+                "Brechin Advertiser", 
+                1.0000000000000007
+            ], 
+            [
+                253, 
+                "Montrose Review", 
+                1.0000000000000007
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.32222476373287146
+            ]
+        ], 
+        "source_name": "The Kirriemuir Herald"
+    }, 
+    "248": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.4062273607739644
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.37196437786789704
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.3684989617424437
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.36322604927851126
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.33866988300577505
+            ]
+        ], 
+        "source_name": "Linlithgow Gazette"
+    }, 
+    "250": {
+        "similar": [
+            [
+                234, 
+                "The Fraserburgh Herald", 
+                1.0
+            ], 
+            [
+                64, 
+                "Nottingham Post", 
+                0.2087960055718648
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.20859598956863465
+            ], 
+            [
+                341, 
+                "Coleraine Times", 
+                0.2078511953408177
+            ], 
+            [
+                268, 
+                "Australian Government Prime Minister press ", 
+                0.2017105968646051
+            ]
+        ], 
+        "source_name": "Mearns Leader"
+    }, 
+    "251": {
+        "similar": [
+            [
+                262, 
+                "The Southern Reporter", 
+                0.23153151671915517
+            ], 
+            [
+                238, 
+                "The Hawick News", 
+                0.23153151671915517
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.21810056018364643
+            ], 
+            [
+                128, 
+                "National Mirror", 
+                0.21397056922595548
+            ], 
+            [
+                331, 
+                "Otago Daily Times", 
+                0.21373043144363527
+            ]
+        ], 
+        "source_name": "Midlothian Advertiser"
+    }, 
+    "252": {
+        "similar": [
+            [
+                50, 
+                "Liverpool Echo", 
+                0.24851259902116532
+            ], 
+            [
+                55, 
+                "Leicester Mercury", 
+                0.18898107846284315
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.17559020779186502
+            ], 
+            [
+                11, 
+                "The Huffington Post", 
+                0.167508146989571
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.1635608026979325
+            ]
+        ], 
+        "source_name": "Milngavie Herald "
+    }, 
+    "253": {
+        "similar": [
+            [
+                232, 
+                "Forfar Dispatch", 
+                1.0000000000000007
+            ], 
+            [
+                202, 
+                "Arbroath Herald", 
+                1.0000000000000007
+            ], 
+            [
+                209, 
+                "Brechin Advertiser", 
+                1.0000000000000007
+            ], 
+            [
+                246, 
+                "The Kirriemuir Herald", 
+                1.0000000000000007
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.32222476373287146
+            ]
+        ], 
+        "source_name": "Montrose Review"
+    }, 
+    "260": {
+        "similar": [
+            [
+                262, 
+                "The Southern Reporter", 
+                0.9999999999999999
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2728293329296348
+            ], 
+            [
+                24, 
+                "STV", 
+                0.27045842279121496
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.25699114714302346
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2565316724999407
+            ]
+        ], 
+        "source_name": "Selkirk Weekender Advertiser"
+    }, 
+    "261": {
+        "similar": [
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.13577467591108477
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.11616317414477055
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.114514003995611
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.114514003995611
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.11403413633780532
+            ]
+        ], 
+        "source_name": "Shetland Times"
+    }, 
+    "262": {
+        "similar": [
+            [
+                260, 
+                "Selkirk Weekender Advertiser", 
+                0.9999999999999999
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2728293329296348
+            ], 
+            [
+                24, 
+                "STV", 
+                0.27045842279121496
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.25699114714302346
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2565316724999407
+            ]
+        ], 
+        "source_name": "The Southern Reporter"
+    }, 
+    "263": {
+        "similar": [
+            [
+                23, 
+                "The Scotsman", 
+                0.8177333995032008
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.7113699525911532
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.15902662808718204
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.15538735553179603
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.15531525838640148
+            ]
+        ], 
+        "source_name": "Stornoway Gazette"
+    }, 
+    "264": {
+        "similar": [
+            [
+                7, 
+                "Express Star", 
+                0.9686632571607432
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.29019857631212187
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.28626549922663197
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.2831890286813177
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.279836675672545
+            ]
+        ], 
+        "source_name": "Herald Scotland"
+    }, 
+    "265": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.35156363602669305
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3361162490312804
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.3248730966811969
+            ], 
+            [
+                88, 
+                "France24", 
+                0.3072396605285108
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.30508438507985425
+            ]
+        ], 
+        "source_name": "The Saint Online"
+    }, 
+    "267": {
+        "similar": [
+            [
+                250, 
+                "Mearns Leader", 
+                1.0000000000000002
+            ], 
+            [
+                69, 
+                "The Herald (Plymouth)", 
+                0.28221217382270575
+            ], 
+            [
+                361, 
+                "Farming Life", 
+                0.28056831492492296
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.25668448196959387
+            ], 
+            [
+                92, 
+                "Isle of Man Today", 
+                0.254457866099081
+            ]
+        ], 
+        "source_name": "The Kincardineshire Observer"
+    }, 
+    "268": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.49149278102582655
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.4376222743727744
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.4270280674274249
+            ], 
+            [
+                464, 
+                "Economic Times", 
+                0.4265140616616352
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.42370199678767306
+            ]
+        ], 
+        "source_name": "Australian Government Prime Minister press "
+    }, 
+    "270": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.2201539230456358
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.21366030575091774
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.20569346145503953
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.19635607034154545
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.1896455836094637
+            ]
+        ], 
+        "source_name": "SBS"
+    }, 
+    "271": {
+        "similar": [
+            [
+                77, 
+                "The Age", 
+                0.30501750202503164
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.304790957294669
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.304790957294669
+            ], 
+            [
+                331, 
+                "Otago Daily Times", 
+                0.20082371607663485
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.2006182029055624
+            ]
+        ], 
+        "source_name": "The West Australian"
+    }, 
+    "274": {
+        "similar": [
+            [
+                381, 
+                "ABC News", 
+                0.5664121326788688
+            ], 
+            [
+                297, 
+                "Calgary Sun", 
+                0.5648434990233313
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.4633650613505099
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.46241901575460176
+            ], 
+            [
+                464, 
+                "Economic Times", 
+                0.26255218900224525
+            ]
+        ], 
+        "source_name": "ABC"
+    }, 
+    "275": {
+        "similar": [
+            [
+                364, 
+                "Tampa Bay Times", 
+                0.7218924285311631
+            ], 
+            [
+                308, 
+                "South China Morning Post", 
+                0.7106274491729617
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.7093270055282829
+            ], 
+            [
+                23, 
+                "The Scotsman", 
+                0.6442223284976335
+            ], 
+            [
+                4, 
+                "Birmingham Mail", 
+                0.6370617450750737
+            ]
+        ], 
+        "source_name": "News.com.au"
+    }, 
+    "277": {
+        "similar": [
+            [
+                360, 
+                "Russia Today", 
+                0.7002861979953465
+            ], 
+            [
+                42, 
+                "The Daily Telegraph", 
+                0.6441041360205325
+            ], 
+            [
+                45, 
+                "Daily Express", 
+                0.6145384976948919
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.6127345606777459
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.5862755435323687
+            ]
+        ], 
+        "source_name": "Sunshine Coast Daily"
+    }, 
+    "280": {
+        "similar": [
+            [
+                77, 
+                "The Age", 
+                0.9999999999999999
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.5989342038291202
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.43535380914038735
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.38166447863604197
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.19806059096903214
+            ]
+        ], 
+        "source_name": "The Canberra Times"
+    }, 
+    "286": {
+        "similar": [
+            [
+                280, 
+                "The Canberra Times", 
+                0.5036918175641896
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.4390302788222186
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.26541253692635763
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.2628332848176272
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.25956354900498435
+            ]
+        ], 
+        "source_name": "Brisbane Times"
+    }, 
+    "287": {
+        "similar": [
+            [
+                293, 
+                "Toronto Sun", 
+                1.0
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.22857855921783277
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.22721588158288855
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.22692074036543813
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.2259921780517854
+            ]
+        ], 
+        "source_name": "Edmonton Sun"
+    }, 
+    "289": {
+        "similar": [
+            [
+                151, 
+                "Independent Newspaper", 
+                0.28108840864119033
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.24336617179309614
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2415214030259131
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2389664662821539
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.23344888603718564
+            ]
+        ], 
+        "source_name": "Winnipeg Free Press"
+    }, 
+    "290": {
+        "similar": [
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.24575881164944868
+            ], 
+            [
+                379, 
+                "The Denver Post", 
+                0.22223661035236922
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.2197939368030685
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.21943184981894967
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.2183782654963319
+            ]
+        ], 
+        "source_name": "National Post"
+    }, 
+    "291": {
+        "similar": [
+            [
+                366, 
+                "The Plain Dealer", 
+                0.1442567759657594
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.12635743126059315
+            ], 
+            [
+                295, 
+                "Calgary Herald", 
+                0.12562826730033896
+            ], 
+            [
+                456, 
+                "Budapest Business Journal", 
+                0.12017710694927271
+            ], 
+            [
+                368, 
+                "Houston Chronicle", 
+                0.1056852753615616
+            ]
+        ], 
+        "source_name": "Montreal Gazette"
+    }, 
+    "292": {
+        "similar": [
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.5912080399744024
+            ], 
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.5770524093710275
+            ], 
+            [
+                292, 
+                "The Hamilton Spectator", 
+                0.46259806472465126
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2868479374670153
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2868479374670153
+            ]
+        ], 
+        "source_name": "The Hamilton Spectator"
+    }, 
+    "293": {
+        "similar": [
+            [
+                297, 
+                "Calgary Sun", 
+                0.9999999999999998
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.3618870981310301
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.31572380312327664
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.29137210279968917
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2760747259834369
+            ]
+        ], 
+        "source_name": "Toronto Sun"
+    }, 
+    "294": {
+        "similar": [
+            [
+                12, 
+                "The Mirror", 
+                0.18101877479796177
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.15219813396753765
+            ], 
+            [
+                380, 
+                "U-T San Diego", 
+                0.14291889334874597
+            ], 
+            [
+                145, 
+                "Daily News", 
+                0.14276658971307993
+            ], 
+            [
+                289, 
+                "Winnipeg Free Press", 
+                0.14079723823267007
+            ]
+        ], 
+        "source_name": "The London Free Press"
+    }, 
+    "295": {
+        "similar": [
+            [
+                297, 
+                "Calgary Sun", 
+                0.39195278167852926
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3261326244293854
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.3244984575552515
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.319403537204795
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.3143020082117483
+            ]
+        ], 
+        "source_name": "Calgary Herald"
+    }, 
+    "296": {
+        "similar": [
+            [
+                292, 
+                "The Hamilton Spectator", 
+                0.8235655008556857
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.37994264590980525
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.3536299955713935
+            ], 
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.3198693129285596
+            ], 
+            [
+                332, 
+                "Scoop", 
+                0.3133916175341549
+            ]
+        ], 
+        "source_name": "Waterloo Region Record"
+    }, 
+    "297": {
+        "similar": [
+            [
+                294, 
+                "The London Free Press", 
+                1.0000000000000016
+            ], 
+            [
+                379, 
+                "The Denver Post", 
+                0.9517189138267081
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.7543797318078038
+            ], 
+            [
+                378, 
+                "Philadelphia Daily News", 
+                0.5986673345861978
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.5902313514052377
+            ]
+        ], 
+        "source_name": "Calgary Sun"
+    }, 
+    "300": {
+        "similar": [
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.24357853288052728
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.19582330663604317
+            ], 
+            [
+                88, 
+                "France24", 
+                0.19369714804608731
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.1933637160270046
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.18062815475031588
+            ]
+        ], 
+        "source_name": "International Herald Tribune"
+    }, 
+    "303": {
+        "similar": [
+            [
+                313, 
+                "Auckland Now", 
+                0.25799996045330964
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.2484646184010818
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.22429477864150185
+            ], 
+            [
+                454, 
+                "Guyana Chronicle", 
+                0.17376952830248238
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.16960599094303358
+            ]
+        ], 
+        "source_name": "The Local Newspaper"
+    }, 
+    "304": {
+        "similar": [
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.3587603478220695
+            ], 
+            [
+                146, 
+                "Eyewitness News", 
+                0.35268914401509455
+            ], 
+            [
+                303, 
+                "The Local Newspaper", 
+                0.33183374229667917
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.33023088687477736
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.3101513995486387
+            ]
+        ], 
+        "source_name": "Der Spiegel International "
+    }, 
+    "305": {
+        "similar": [
+            [
+                293, 
+                "Toronto Sun", 
+                1.0000000000000002
+            ], 
+            [
+                287, 
+                "Edmonton Sun", 
+                1.0000000000000002
+            ], 
+            [
+                180, 
+                "Irish Examiner", 
+                0.29285470737727787
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.25078429597053997
+            ], 
+            [
+                20, 
+                "Irish Independent", 
+                0.2490432660894726
+            ]
+        ], 
+        "source_name": "Canoe"
+    }, 
+    "308": {
+        "similar": [
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.22208831181185612
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.1984072024638234
+            ], 
+            [
+                368, 
+                "Houston Chronicle", 
+                0.1977643348365154
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.1856133402501433
+            ], 
+            [
+                433, 
+                "Barbados Today", 
+                0.18317595368641576
+            ]
+        ], 
+        "source_name": "South China Morning Post"
+    }, 
+    "309": {
+        "similar": [
+            [
+                309, 
+                "Dutch News", 
+                0.42676507525933793
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.23600112602898282
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.21574398643629691
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2137310456044192
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.20950522367642962
+            ]
+        ], 
+        "source_name": "Dutch News"
+    }, 
+    "313": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.219210895990238
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.20444206089362837
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.202413410951256
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.20196072823763578
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.20163963846519833
+            ]
+        ], 
+        "source_name": "Auckland Now"
+    }, 
+    "315": {
+        "similar": [
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.20878092770379297
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.20878092770379297
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.20487489901094166
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.19306179320558964
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.19044344798299417
+            ]
+        ], 
+        "source_name": "Business Day"
+    }, 
+    "318": {
+        "similar": [
+            [
+                308, 
+                "South China Morning Post", 
+                0.38010991796074384
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.25878561542331624
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.25131915672112004
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.245321483478134
+            ], 
+            [
+                4, 
+                "Birmingham Mail", 
+                0.24492077816006624
+            ]
+        ], 
+        "source_name": "Dominion Post"
+    }, 
+    "322": {
+        "similar": [
+            [
+                322, 
+                "Indian Weekender", 
+                0.999999999999999
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.18425171808892668
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.18402213540194579
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.18380338310351055
+            ], 
+            [
+                379, 
+                "The Denver Post", 
+                0.18299753844747474
+            ]
+        ], 
+        "source_name": "Indian Weekender"
+    }, 
+    "324": {
+        "similar": [
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.22652523384492243
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.2231875934922492
+            ], 
+            [
+                7, 
+                "Express Star", 
+                0.21882180486938213
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.21652173738099384
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.21314929769201388
+            ]
+        ], 
+        "source_name": "National Business Review "
+    }, 
+    "331": {
+        "similar": [
+            [
+                313, 
+                "Auckland Now", 
+                0.5979713425888672
+            ], 
+            [
+                332, 
+                "Scoop", 
+                0.5259909568661633
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.34462678065613134
+            ], 
+            [
+                274, 
+                "ABC", 
+                0.33128694075422954
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.32604536246808213
+            ]
+        ], 
+        "source_name": "Otago Daily Times"
+    }, 
+    "332": {
+        "similar": [
+            [
+                331, 
+                "Otago Daily Times", 
+                0.5259909568661633
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.3675814360962777
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.25515150497498956
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.23266320292659698
+            ], 
+            [
+                476, 
+                "The Local (Norway)", 
+                0.21659374995535965
+            ]
+        ], 
+        "source_name": "Scoop"
+    }, 
+    "333": {
+        "similar": [
+            [
+                332, 
+                "Scoop", 
+                0.17884509425218253
+            ], 
+            [
+                42, 
+                "The Daily Telegraph", 
+                0.17504773259502165
+            ], 
+            [
+                55, 
+                "Leicester Mercury", 
+                0.1581833846388012
+            ], 
+            [
+                380, 
+                "U-T San Diego", 
+                0.15671709878573714
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.15240412472823472
+            ]
+        ], 
+        "source_name": "Newswire"
+    }, 
+    "335": {
+        "similar": [
+            [
+                338, 
+                "Whakatane Beacon", 
+                0.3580216503101162
+            ], 
+            [
+                335, 
+                "Sun Live", 
+                0.3556401581663586
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.34737762802771494
+            ], 
+            [
+                100, 
+                "Daily Post (Nigeria)", 
+                0.30842063900502314
+            ], 
+            [
+                56, 
+                "Coventry Telegraph", 
+                0.3022026955392689
+            ]
+        ], 
+        "source_name": "Sun Live"
+    }, 
+    "338": {
+        "similar": [
+            [
+                381, 
+                "ABC News", 
+                0.43790735400304626
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.4306532027694611
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.4028790217264333
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3951316946166767
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.3951316946166767
+            ]
+        ], 
+        "source_name": "Whakatane Beacon"
+    }, 
+    "339": {
+        "similar": [
+            [
+                78, 
+                "The Globe and Mail", 
+                0.29739529973174156
+            ], 
+            [
+                238, 
+                "The Hawick News", 
+                0.21309001676100875
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.18957385256377995
+            ], 
+            [
+                67, 
+                "Sunderland Echo", 
+                0.18774282823635707
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.18555541948640314
+            ]
+        ], 
+        "source_name": "Ballymoney & Moyle Times"
+    }, 
+    "340": {
+        "similar": [
+            [
+                344, 
+                "Dromore Leader", 
+                0.9999999999999999
+            ], 
+            [
+                53, 
+                "The Bolton News", 
+                0.2705680414300114
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.22834206551457092
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.21771125389393492
+            ], 
+            [
+                18, 
+                "York Press", 
+                0.21274472420238522
+            ]
+        ], 
+        "source_name": "Banbridge Leader"
+    }, 
+    "341": {
+        "similar": [
+            [
+                121, 
+                "Morocco World News", 
+                0.2662093385907056
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.26044793692440454
+            ], 
+            [
+                101, 
+                "The Nation (Nigeria)", 
+                0.2584875706735365
+            ], 
+            [
+                127, 
+                "Leadership Newspaper", 
+                0.25645692668610015
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.25431537490516876
+            ]
+        ], 
+        "source_name": "Coleraine Times"
+    }, 
+    "342": {
+        "similar": [
+            [
+                59, 
+                "Derby Telegraph", 
+                0.26125149857671565
+            ], 
+            [
+                151, 
+                "Independent Newspaper", 
+                0.25712458273048233
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.2524660601536489
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.24937953317259678
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.24789662108326882
+            ]
+        ], 
+        "source_name": "Derry Journal"
+    }, 
+    "344": {
+        "similar": [
+            [
+                353, 
+                "Ulster Star", 
+                0.9999999999999999
+            ], 
+            [
+                350, 
+                "Portadown Times", 
+                0.9999999999999999
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.34589487138949915
+            ], 
+            [
+                369, 
+                "CNN", 
+                0.30715020921543945
+            ], 
+            [
+                68, 
+                "Bournemouth Daily Echo", 
+                0.2940932043769616
+            ]
+        ], 
+        "source_name": "Dromore Leader"
+    }, 
+    "346": {
+        "similar": [
+            [
+                353, 
+                "Ulster Star", 
+                1.0000000000000004
+            ], 
+            [
+                340, 
+                "Banbridge Leader", 
+                1.0000000000000004
+            ], 
+            [
+                341, 
+                "Coleraine Times", 
+                1.0000000000000004
+            ], 
+            [
+                342, 
+                "Derry Journal", 
+                1.0000000000000004
+            ], 
+            [
+                347, 
+                "Lurgan Mail", 
+                1.0000000000000004
+            ]
+        ], 
+        "source_name": "Londonderry Sentinel"
+    }, 
+    "347": {
+        "similar": [
+            [
+                190, 
+                "Limerick Post", 
+                0.23181878245330148
+            ], 
+            [
+                128, 
+                "National Mirror", 
+                0.22824190077510617
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.22498504860622623
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.22496189655940418
+            ], 
+            [
+                1, 
+                "BBC News", 
+                0.22170252308844363
+            ]
+        ], 
+        "source_name": "Lurgan Mail"
+    }, 
+    "348": {
+        "similar": [
+            [
+                353, 
+                "Ulster Star", 
+                1.0000000000000004
+            ], 
+            [
+                340, 
+                "Banbridge Leader", 
+                1.0000000000000004
+            ], 
+            [
+                341, 
+                "Coleraine Times", 
+                1.0000000000000004
+            ], 
+            [
+                342, 
+                "Derry Journal", 
+                1.0000000000000004
+            ], 
+            [
+                346, 
+                "Londonderry Sentinel", 
+                1.0000000000000004
+            ]
+        ], 
+        "source_name": "Mid Ulster Mail"
+    }, 
+    "350": {
+        "similar": [
+            [
+                340, 
+                "Banbridge Leader", 
+                0.9999999999999993
+            ], 
+            [
+                347, 
+                "Lurgan Mail", 
+                0.9999999999999993
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.27070378088818153
+            ], 
+            [
+                61, 
+                "The Argus (Brighton)", 
+                0.25403671926056315
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.24038241424760975
+            ]
+        ], 
+        "source_name": "Portadown Times"
+    }, 
+    "351": {
+        "similar": [
+            [
+                348, 
+                "Mid Ulster Mail", 
+                0.6099646400112836
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.22639430768601052
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.21845746493689977
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.21423176236401753
+            ], 
+            [
+                46, 
+                "Daily Star", 
+                0.2105621623773898
+            ]
+        ], 
+        "source_name": "Tyrone Times"
+    }, 
+    "353": {
+        "similar": [
+            [
+                340, 
+                "Banbridge Leader", 
+                1.0000000000000002
+            ], 
+            [
+                7, 
+                "Express Star", 
+                0.41807763390588343
+            ], 
+            [
+                42, 
+                "The Daily Telegraph", 
+                0.3594051932219889
+            ], 
+            [
+                15, 
+                "Belfast Telegraph", 
+                0.3439514002554089
+            ], 
+            [
+                45, 
+                "Daily Express", 
+                0.3190852938055745
+            ]
+        ], 
+        "source_name": "Ulster Star"
+    }, 
+    "354": {
+        "similar": [
+            [
+                432, 
+                "Financial Express ", 
+                0.3480287361573482
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.328066639848305
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3243653023909109
+            ], 
+            [
+                44, 
+                "London Evening Standard", 
+                0.3240261440324434
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.3215071299696003
+            ]
+        ], 
+        "source_name": "Krakow Post"
+    }, 
+    "355": {
+        "similar": [
+            [
+                303, 
+                "The Local Newspaper", 
+                0.3768953641656763
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.36569284776184263
+            ], 
+            [
+                88, 
+                "France24", 
+                0.36442239774499696
+            ], 
+            [
+                457, 
+                "Iceland Review", 
+                0.3584886947648117
+            ], 
+            [
+                362, 
+                "Las Vegas Review-Journal", 
+                0.34284259130896355
+            ]
+        ], 
+        "source_name": "Warsaw Business Journal"
+    }, 
+    "356": {
+        "similar": [
+            [
+                286, 
+                "Brisbane Times", 
+                0.4330759237800481
+            ], 
+            [
+                275, 
+                "News.com.au", 
+                0.37522719538740495
+            ], 
+            [
+                95, 
+                "Bangkok Post", 
+                0.3663216623144947
+            ], 
+            [
+                43, 
+                "Daily Mail", 
+                0.3623908804962231
+            ], 
+            [
+                459, 
+                "Business Standard ", 
+                0.35405286466308955
+            ]
+        ], 
+        "source_name": "Portugal Resident"
+    }, 
+    "359": {
+        "similar": [
+            [
+                160, 
+                "The Times", 
+                0.24568559127102907
+            ], 
+            [
+                88, 
+                "France24", 
+                0.20771026691199554
+            ], 
+            [
+                1, 
+                "BBC News", 
+                0.2023591985779758
+            ], 
+            [
+                359, 
+                "Pravda", 
+                0.16677256159042966
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.16636440098282712
+            ]
+        ], 
+        "source_name": "Pravda"
+    }, 
+    "360": {
+        "similar": [
+            [
+                375, 
+                "New York Post", 
+                0.4229133811143539
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.32768971807616076
+            ], 
+            [
+                88, 
+                "France24", 
+                0.3217405632248384
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.32006499356763646
+            ], 
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.31371358637693475
+            ]
+        ], 
+        "source_name": "Russia Today"
+    }, 
+    "361": {
+        "similar": [
+            [
+                22, 
+                "Daily Record", 
+                0.10160259962965482
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.10031560509239648
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.0990665088013939
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.09095114279041894
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.08824602078676062
+            ]
+        ], 
+        "source_name": "Farming Life"
+    }, 
+    "362": {
+        "similar": [
+            [
+                362, 
+                "Las Vegas Review-Journal", 
+                0.4234461624273295
+            ], 
+            [
+                379, 
+                "The Denver Post", 
+                0.41086764672897363
+            ], 
+            [
+                88, 
+                "France24", 
+                0.3852936090009813
+            ], 
+            [
+                100, 
+                "Daily Post (Nigeria)", 
+                0.29557598801769897
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2842170775578526
+            ]
+        ], 
+        "source_name": "Las Vegas Review-Journal"
+    }, 
+    "364": {
+        "similar": [
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.9512707665339698
+            ], 
+            [
+                362, 
+                "Las Vegas Review-Journal", 
+                0.9237752862550407
+            ], 
+            [
+                145, 
+                "Daily News", 
+                0.9237752862550407
+            ], 
+            [
+                264, 
+                "Herald Scotland", 
+                0.7163089966203331
+            ], 
+            [
+                24, 
+                "STV", 
+                0.6648964983692951
+            ]
+        ], 
+        "source_name": "Tampa Bay Times"
+    }, 
+    "366": {
+        "similar": [
+            [
+                366, 
+                "The Plain Dealer", 
+                0.210209781027535
+            ], 
+            [
+                34, 
+                "Standard Media", 
+                0.1593736215963502
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.15698269171131674
+            ], 
+            [
+                148, 
+                "George Herald", 
+                0.1487981937308611
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.1452351191792134
+            ]
+        ], 
+        "source_name": "The Plain Dealer"
+    }, 
+    "368": {
+        "similar": [
+            [
+                368, 
+                "Houston Chronicle", 
+                0.31990091224940126
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.30169958728456714
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.30169958728456714
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.28643080575848456
+            ], 
+            [
+                61, 
+                "The Argus (Brighton)", 
+                0.28586244426941093
+            ]
+        ], 
+        "source_name": "Houston Chronicle"
+    }, 
+    "369": {
+        "similar": [
+            [
+                157, 
+                "News24", 
+                0.4297107331836067
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.3167849249285798
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.26570889751992555
+            ], 
+            [
+                88, 
+                "France24", 
+                0.2426596284977068
+            ], 
+            [
+                364, 
+                "Tampa Bay Times", 
+                0.1911831292110912
+            ]
+        ], 
+        "source_name": "CNN"
+    }, 
+    "371": {
+        "similar": [
+            [
+                360, 
+                "Russia Today", 
+                0.594286707612601
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.5834187005035385
+            ], 
+            [
+                42, 
+                "The Daily Telegraph", 
+                0.39444035239156217
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.350583740010836
+            ], 
+            [
+                58, 
+                "Manchester Evening News", 
+                0.30612638396774655
+            ]
+        ], 
+        "source_name": "Fox News"
+    }, 
+    "373": {
+        "similar": [
+            [
+                373, 
+                "Forbes", 
+                0.9999999999999998
+            ], 
+            [
+                56, 
+                "Coventry Telegraph", 
+                0.33303147837720365
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.22846241051748467
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.11930287612163586
+            ], 
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.11466429587423183
+            ]
+        ], 
+        "source_name": "Forbes"
+    }, 
+    "374": {
+        "similar": [
+            [
+                364, 
+                "Tampa Bay Times", 
+                0.8095051751580796
+            ], 
+            [
+                87, 
+                "The Daily Beast", 
+                0.3778870483066621
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2917058876926305
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.28536241146191227
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.28465429389625896
+            ]
+        ], 
+        "source_name": "Orange County Register"
+    }, 
+    "375": {
+        "similar": [
+            [
+                293, 
+                "Toronto Sun", 
+                0.5059225394132539
+            ], 
+            [
+                87, 
+                "The Daily Beast", 
+                0.35611834631941514
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.3131955701233996
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2792207545743671
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2792207545743671
+            ]
+        ], 
+        "source_name": "New York Post"
+    }, 
+    "377": {
+        "similar": [
+            [
+                151, 
+                "Independent Newspaper", 
+                0.20431712777802866
+            ], 
+            [
+                380, 
+                "U-T San Diego", 
+                0.18025718478315172
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.17417266906735251
+            ], 
+            [
+                59, 
+                "Derby Telegraph", 
+                0.17319957045450507
+            ], 
+            [
+                37, 
+                "Channels TV", 
+                0.16554977289195738
+            ]
+        ], 
+        "source_name": "Honolulu Star Advertiser"
+    }, 
+    "378": {
+        "similar": [
+            [
+                378, 
+                "Philadelphia Daily News", 
+                0.6133660797005647
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.2536142888780102
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.2465311410126311
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2456382538650979
+            ], 
+            [
+                274, 
+                "ABC", 
+                0.2417107066108671
+            ]
+        ], 
+        "source_name": "Philadelphia Daily News"
+    }, 
+    "379": {
+        "similar": [
+            [
+                88, 
+                "France24", 
+                0.5527848222864858
+            ], 
+            [
+                362, 
+                "Las Vegas Review-Journal", 
+                0.5098242373964338
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.36544203983096746
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3546545327387818
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.3524580978176827
+            ]
+        ], 
+        "source_name": "The Denver Post"
+    }, 
+    "380": {
+        "similar": [
+            [
+                22, 
+                "Daily Record", 
+                0.23559895864779887
+            ], 
+            [
+                362, 
+                "Las Vegas Review-Journal", 
+                0.2312448037282722
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.23075415107862635
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.23036704521917695
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2284585400491963
+            ]
+        ], 
+        "source_name": "U-T San Diego"
+    }, 
+    "381": {
+        "similar": [
+            [
+                151, 
+                "Independent Newspaper", 
+                0.9501976149126602
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.5986060531372397
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.5747411861625931
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.5747411861625931
+            ], 
+            [
+                369, 
+                "CNN", 
+                0.5701872210448509
+            ]
+        ], 
+        "source_name": "ABC News"
+    }, 
+    "382": {
+        "similar": [
+            [
+                381, 
+                "ABC News", 
+                0.36895418982864425
+            ], 
+            [
+                100, 
+                "Daily Post (Nigeria)", 
+                0.20049695539849516
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.19136410856549577
+            ], 
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.18889765735125805
+            ], 
+            [
+                115, 
+                "Daily Guide Ghana", 
+                0.179368383025599
+            ]
+        ], 
+        "source_name": "U.S. News and World Report"
+    }, 
+    "384": {
+        "similar": [
+            [
+                369, 
+                "CNN", 
+                0.6211677330214164
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.5916026475982508
+            ], 
+            [
+                88, 
+                "France24", 
+                0.45237249915616895
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.4444297155368396
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.3799889055977313
+            ]
+        ], 
+        "source_name": "Newsmax Media"
+    }, 
+    "424": {
+        "similar": [
+            [
+                60, 
+                "Bradford Telegraph and Argus", 
+                0.20622320062188432
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.17001904495780346
+            ], 
+            [
+                18, 
+                "York Press", 
+                0.16625923567022843
+            ], 
+            [
+                296, 
+                "Waterloo Region Record", 
+                0.1618018484668186
+            ], 
+            [
+                362, 
+                "Las Vegas Review-Journal", 
+                0.1582532003610394
+            ]
+        ], 
+        "source_name": "Pajhwok Afghan News "
+    }, 
+    "425": {
+        "similar": [
+            [
+                454, 
+                "Guyana Chronicle", 
+                0.2394150647526488
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2206692777189009
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2206358278839446
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.2193925556293786
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.21205032642506538
+            ]
+        ], 
+        "source_name": "Antigua Observer"
+    }, 
+    "428": {
+        "similar": [
+            [
+                332, 
+                "Scoop", 
+                0.2684493019482665
+            ], 
+            [
+                87, 
+                "The Daily Beast", 
+                0.22196826236791772
+            ], 
+            [
+                271, 
+                "The West Australian", 
+                0.16711719045719817
+            ], 
+            [
+                293, 
+                "Toronto Sun", 
+                0.14547601469673876
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.14429487405124217
+            ]
+        ], 
+        "source_name": "Pan Armenian Newspaper "
+    }, 
+    "429": {
+        "similar": [
+            [
+                429, 
+                "Azer News", 
+                0.12660469666478757
+            ], 
+            [
+                267, 
+                "The Kincardineshire Observer", 
+                0.11994083411991625
+            ], 
+            [
+                242, 
+                "Inverurie Herald", 
+                0.11994083411991625
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.11513962894025212
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.11513962894025212
+            ]
+        ], 
+        "source_name": "Azer News"
+    }, 
+    "432": {
+        "similar": [
+            [
+                459, 
+                "Business Standard ", 
+                0.5213526056616065
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.5042752042864068
+            ], 
+            [
+                464, 
+                "Economic Times", 
+                0.48604754649605564
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.48153764593943593
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.3563691304533486
+            ]
+        ], 
+        "source_name": "Financial Express "
+    }, 
+    "433": {
+        "similar": [
+            [
+                462, 
+                "Deccan Herald ", 
+                0.20736773504815342
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.18675153002587352
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.16547158862440065
+            ], 
+            [
+                347, 
+                "Lurgan Mail", 
+                0.16233098075300745
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.1609229186244558
+            ]
+        ], 
+        "source_name": "Barbados Today"
+    }, 
+    "434": {
+        "similar": [
+            [
+                364, 
+                "Tampa Bay Times", 
+                0.2343240129780596
+            ], 
+            [
+                46, 
+                "Daily Star", 
+                0.22970788691919036
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.21972938589352628
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.20641042993632736
+            ], 
+            [
+                100, 
+                "Daily Post (Nigeria)", 
+                0.20634228459322065
+            ]
+        ], 
+        "source_name": "Daily Nation Barbados"
+    }, 
+    "437": {
+        "similar": [
+            [
+                20, 
+                "Irish Independent", 
+                0.30116429779098863
+            ], 
+            [
+                88, 
+                "France24", 
+                0.282783457527443
+            ], 
+            [
+                313, 
+                "Auckland Now", 
+                0.28262588179757314
+            ], 
+            [
+                49, 
+                "Hull Daily Mail", 
+                0.26726202231448687
+            ], 
+            [
+                375, 
+                "New York Post", 
+                0.26688764891551375
+            ]
+        ], 
+        "source_name": "Royal Gazette"
+    }, 
+    "441": {
+        "similar": [
+            [
+                468, 
+                "The Hindu", 
+                0.1576797295786556
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.13671203073125085
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.1293029159824594
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.12553629467857405
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.12150060218452599
+            ]
+        ], 
+        "source_name": "Shanghai Daily"
+    }, 
+    "447": {
+        "similar": [
+            [
+                432, 
+                "Financial Express ", 
+                0.2298443163966081
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.22337069054502762
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.2228396843059301
+            ], 
+            [
+                78, 
+                "The Globe and Mail", 
+                0.22275140400454999
+            ], 
+            [
+                50, 
+                "Liverpool Echo", 
+                0.2216323150161208
+            ]
+        ], 
+        "source_name": "Copenhagen Post "
+    }, 
+    "449": {
+        "similar": [
+            [
+                90, 
+                "The Wall Street Journal", 
+                0.3371047327723573
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.29631853997533836
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.29561822378816865
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.2872699381464805
+            ], 
+            [
+                308, 
+                "South China Morning Post", 
+                0.2865060192862982
+            ]
+        ], 
+        "source_name": "Dominican Today"
+    }, 
+    "454": {
+        "similar": [
+            [
+                454, 
+                "Guyana Chronicle", 
+                0.2276294845729964
+            ], 
+            [
+                379, 
+                "The Denver Post", 
+                0.18134271430881105
+            ], 
+            [
+                53, 
+                "The Bolton News", 
+                0.17545433305959662
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.16815066998373268
+            ], 
+            [
+                262, 
+                "The Southern Reporter", 
+                0.16605883055615503
+            ]
+        ], 
+        "source_name": "Guyana Chronicle"
+    }, 
+    "456": {
+        "similar": [
+            [
+                54, 
+                "Teeside Gazette", 
+                0.25227661916594507
+            ], 
+            [
+                429, 
+                "Azer News", 
+                0.20475602779776547
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.20071687394424897
+            ], 
+            [
+                117, 
+                "The East African Newspaper", 
+                0.1937048714597022
+            ], 
+            [
+                364, 
+                "Tampa Bay Times", 
+                0.19289337749656632
+            ]
+        ], 
+        "source_name": "Budapest Business Journal"
+    }, 
+    "457": {
+        "similar": [
+            [
+                457, 
+                "Iceland Review", 
+                0.22510621106551582
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.21019326839285632
+            ], 
+            [
+                73, 
+                "Los Angeles Times", 
+                0.1997201983606838
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.19833645608448247
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.1932567815835678
+            ]
+        ], 
+        "source_name": "Iceland Review"
+    }, 
+    "459": {
+        "similar": [
+            [
+                459, 
+                "Business Standard ", 
+                0.0924042145768257
+            ], 
+            [
+                447, 
+                "Copenhagen Post ", 
+                0.07818821580723496
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.07653896237007835
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.060289157731214946
+            ], 
+            [
+                368, 
+                "Houston Chronicle", 
+                0.05774740661049386
+            ]
+        ], 
+        "source_name": "Business Standard "
+    }, 
+    "460": {
+        "similar": [
+            [
+                471, 
+                "The Indian Express", 
+                0.37029340921322723
+            ], 
+            [
+                7, 
+                "Express Star", 
+                0.2092340802893847
+            ], 
+            [
+                462, 
+                "Deccan Herald ", 
+                0.14282674068252096
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.13799755477451567
+            ], 
+            [
+                280, 
+                "The Canberra Times", 
+                0.13171175668827118
+            ]
+        ], 
+        "source_name": "Business Today "
+    }, 
+    "462": {
+        "similar": [
+            [
+                471, 
+                "The Indian Express", 
+                0.6925836523079724
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.5137174743031652
+            ], 
+            [
+                382, 
+                "U.S. News and World Report", 
+                0.4874881310969751
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.47448955321417846
+            ], 
+            [
+                464, 
+                "Economic Times", 
+                0.46721711483535966
+            ]
+        ], 
+        "source_name": "Deccan Herald "
+    }, 
+    "464": {
+        "similar": [
+            [
+                464, 
+                "Economic Times", 
+                0.9999999999999999
+            ], 
+            [
+                132, 
+                "The Punch", 
+                0.11092598954819254
+            ], 
+            [
+                381, 
+                "ABC News", 
+                0.06950173659207753
+            ]
+        ], 
+        "source_name": "Economic Times"
+    }, 
+    "465": {
+        "similar": [
+            [
+                366, 
+                "The Plain Dealer", 
+                0.2785896282546085
+            ], 
+            [
+                18, 
+                "York Press", 
+                0.2687114316962518
+            ], 
+            [
+                121, 
+                "Morocco World News", 
+                0.2598287547392246
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.2478032820605871
+            ], 
+            [
+                96, 
+                "Daily Nation", 
+                0.24493303975805
+            ]
+        ], 
+        "source_name": "Express Computer "
+    }, 
+    "466": {
+        "similar": [
+            [
+                58, 
+                "Manchester Evening News", 
+                0.1693387187031842
+            ], 
+            [
+                22, 
+                "Daily Record", 
+                0.16909076451851035
+            ], 
+            [
+                115, 
+                "Daily Guide Ghana", 
+                0.16318944574996078
+            ], 
+            [
+                159, 
+                "Sowetan Newspaper", 
+                0.1593368115341688
+            ], 
+            [
+                371, 
+                "Fox News", 
+                0.158471740600051
+            ]
+        ], 
+        "source_name": "Free Press Journal"
+    }, 
+    "468": {
+        "similar": [
+            [
+                291, 
+                "Montreal Gazette", 
+                0.2354911467177307
+            ], 
+            [
+                468, 
+                "The Hindu", 
+                0.21444869663355953
+            ], 
+            [
+                368, 
+                "Houston Chronicle", 
+                0.2016813707739444
+            ], 
+            [
+                462, 
+                "Deccan Herald ", 
+                0.1949831235573238
+            ], 
+            [
+                65, 
+                "South Wales Echo", 
+                0.19439708011542267
+            ]
+        ], 
+        "source_name": "The Hindu"
+    }, 
+    "471": {
+        "similar": [
+            [
+                468, 
+                "The Hindu", 
+                0.1750596773036634
+            ], 
+            [
+                12, 
+                "The Mirror", 
+                0.13510277738635498
+            ], 
+            [
+                48, 
+                "Bristol Post", 
+                0.133561773655288
+            ], 
+            [
+                472, 
+                "Live Mint", 
+                0.12745959098152618
+            ], 
+            [
+                471, 
+                "The Indian Express", 
+                0.1261877821291279
+            ]
+        ], 
+        "source_name": "The Indian Express"
+    }, 
+    "472": {
+        "similar": [
+            [
+                78, 
+                "The Globe and Mail", 
+                0.3153339113848676
+            ], 
+            [
+                432, 
+                "Financial Express ", 
+                0.29637765649049985
+            ], 
+            [
+                464, 
+                "Economic Times", 
+                0.29057659844585654
+            ], 
+            [
+                472, 
+                "Live Mint", 
+                0.28657442951968437
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.27485669739224955
+            ]
+        ], 
+        "source_name": "Live Mint"
+    }, 
+    "476": {
+        "similar": [
+            [
+                380, 
+                "U-T San Diego", 
+                0.31085062989538786
+            ], 
+            [
+                77, 
+                "The Age", 
+                0.30211738347951
+            ], 
+            [
+                58, 
+                "Manchester Evening News", 
+                0.2985271926632238
+            ], 
+            [
+                76, 
+                "The Sydney Morning Herald", 
+                0.29549069989395194
+            ], 
+            [
+                286, 
+                "Brisbane Times", 
+                0.29549069989395194
+            ]
+        ], 
+        "source_name": "The Local (Norway)"
+    }
+}
