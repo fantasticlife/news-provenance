@@ -1,13 +1,29 @@
 <div class="section">
 	<%= content_tag( 'h1', @entity.name ) %>
 </div>
-<div class="section">
+<div class="section" id="articles">
 	<%= content_tag( 'h2', 'Articles' ) %>
 	<ol>
 		<%= render :partial => 'articles/article', :collection => @entity.articles %>
 	</ol>
 </div>
-<div class="section">
+<div class="section" id="sources">
+	<%= content_tag( 'h2', 'Sources' ) %>
+	<table>
+		<thead>
+			<tr>
+				<%= content_tag( 'td', 'Source' ) %>
+				<%= content_tag( 'td', 'Article count' ) %>
+				<%= content_tag( 'td', 'Sentiment' ) %>
+				<%= content_tag( 'td', 'Subjectivity' ) %>
+			</tr>
+		</thead>
+		<tbody>
+			<%= render :partial => 'source_entity_sentiments/source_entity_sentiment', :collection => @entity.source_entity_sentiments %>
+		</tbody>
+	</table>
+</div>
+<div class="section" id="cooccurrent-entities">
 	<%= content_tag( 'h2', 'Co-occurrent entities' ) %>
 	<ol class="tag-cloud cm">
 		<%= render :partial => 'entity_for_cloud', :collection => @cooccurrent_entities %>

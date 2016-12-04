@@ -1,6 +1,7 @@
 class Entity < ActiveRecord::Base
   
   has_many :extracted_entities
+  has_many :source_entity_sentiments, -> { order 'average_sentiment_1 desc' }
   
   def articles
     Article.all

@@ -1,3 +1,4 @@
+drop table if exists source_entity_sentiments;
 drop table if exists extracted_entities;
 drop table if exists entities;
 drop table if exists article_similarities;
@@ -51,5 +52,16 @@ create table extracted_entities (
 	score float,
 	constraint fk_extracted_entity_article foreign key (article_id) references articles(id),
 	constraint fk_extracted_entity_entity foreign key (entity_id) references entities(id),
+	primary key (id)
+);
+create table source_entity_sentiments (
+	id serial,
+	source_id int not null,
+	entity_id int not null,
+	article_count int,
+	average_sentiment_1 float,
+	average_sentiment_2 float,
+	constraint fk_source_entity_sentiment_source foreign key (source_id) references sources(id),
+	constraint fk_source_entity_sentiment_entity foreign key (entity_id) references entities(id),
 	primary key (id)
 );

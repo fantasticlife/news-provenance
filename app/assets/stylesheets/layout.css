@@ -2,9 +2,6 @@
 .header {
 	background-color: #000;
 	background-color: rgba(0, 0, 0, 0.5);
-	position: fixed;
-	left: 0;
-	top: 0;
 	width: 100%;
 }
 
@@ -57,7 +54,7 @@
 
 /* main block */
 .main {
-	margin: 127px 3em 1em;
+	margin: 0 3em 1em;
 	padding: 1em;
 }
 .main p, .main ol {
