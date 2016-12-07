@@ -1,6 +1,6 @@
 <tr>
 	<%= content_tag( 'td', link_to( source_entity_sentiment.source.title, source_entities_show_url( :source => source_entity_sentiment.source ) ) ) %>
 	<%= content_tag( 'td', source_entity_sentiment.article_count || 'nna' ) %>
-	<%= content_tag( 'td', source_entity_sentiment.average_sentiment_1 ) %>
-	<%= content_tag( 'td', source_entity_sentiment.average_sentiment_2 ) %>
+	<%= content_tag( 'td', source_entity_sentiment.sentiment ) %>
+	<%= content_tag( 'td', source_entity_sentiment.subjectivity ) %>
 </tr>

@@ -1,14 +1,8 @@
 <div class="section">
 	<%= content_tag( 'h1', @entity.name ) %>
 </div>
-<div class="section" id="articles">
-	<%= content_tag( 'h2', 'Articles' ) %>
-	<ol>
-		<%= render :partial => 'articles/article', :collection => @entity.articles %>
-	</ol>
-</div>
 <div class="section" id="sources">
-	<%= content_tag( 'h2', 'Sources' ) %>
+	<%= content_tag( 'h2', link_to( 'Sources', entities_sources_list_url ) ) %>
 	<table>
 		<thead>
 			<tr>
@@ -24,8 +18,14 @@
 	</table>
 </div>
 <div class="section" id="cooccurrent-entities">
-	<%= content_tag( 'h2', 'Co-occurrent entities' ) %>
+	<%= content_tag( 'h2', link_to( 'Co-occurrent entities', entities_entities_list_url ) ) %>
 	<ol class="tag-cloud cm">
 		<%= render :partial => 'entity_for_cloud', :collection => @cooccurrent_entities %>
+	</ol>
+</div>
+<div class="section" id="articles">
+	<%= content_tag( 'h2', link_to( 'Articles', entities_articles_list_url ) ) %>
+	<ol>
+		<%= render :partial => 'articles/article', :collection => @entity.articles %>
 	</ol>
 </div>

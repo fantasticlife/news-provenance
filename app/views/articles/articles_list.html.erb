@@ -1,0 +1,20 @@
+<div class="section">
+	<%= content_tag( 'h1', "Similar articles to #{@article.title }" ) %>
+	<table>
+		<thead>
+			<tr>
+				<%= content_tag( 'td', link_to( 'Similarity', articles_articles_list_url( :order => 'similarity') ) ) %>
+				<%= content_tag( 'td', 'Source' ) %>
+				<%= content_tag( 'td', 'Article' ) %>
+				<%= content_tag( 'td', link_to( 'Sentiment', articles_articles_list_url( :order => 'sentiment' ) ) ) %>
+				<%= content_tag( 'td', link_to( 'Subjectivity', articles_articles_list_url( :order => 'subjectivity' ) ) ) %>
+				<%= content_tag( 'td', 'Published at' ) %>
+			</tr>
+		</thead>
+		<tbody>
+			<%= render :partial => 'similar_article', :collection => @article.ordered_article_similarities( @order ) %>
+		</tbody>
+	</table>
+	<%= content_tag( 'p', link_to( 'GEXF co-occurence XML', articles_show_url( :format => 'xml' ) ) ) %>
+	<%= content_tag( 'p', link_to( 'JSON (by article URL)', articles_by_url_url( :url => @article.url, :format => 'json' ) ) ) %>
+</div>

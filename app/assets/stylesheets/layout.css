@@ -67,36 +67,6 @@
 	padding-bottom: .5em;
 }
 
-/* flash notice */
-#flash-notice {
-	border-width: 2px;
-	height: 2em;
-	line-height: 2em;
-	padding: 1em;
-	vertical-align: middle;
-}
-
-/* error messages */
-#error-message p {
-	padding-bottom: .3em;
-}
-
-/* columns */
-.columns .column {
-	float: left;
-}
-.column80 {
-	margin-right: 10px;
-	width: 65%;
-}
-.column20 {
-	width: 30%;
-}
-.column50 {
-	margin-right: 10px;
-	width: 49%;
-}
-
 /* tables */
 th, td {
 	padding: .2em .3em;

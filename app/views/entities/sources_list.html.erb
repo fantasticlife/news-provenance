@@ -1,0 +1,16 @@
+<div class="section">
+	<%= content_tag( 'h1', "Source coverage of articles mentioning #{@entity.name}" ) %>
+	<table>
+		<thead>
+			<tr>
+				<%= content_tag( 'td', 'Source' ) %>
+				<%= content_tag( 'td', link_to( 'Article count', entities_sources_list_url( :order => 'article-count' ) ) ) %>
+				<%= content_tag( 'td', link_to( 'Sentiment', entities_sources_list_url( :order => 'sentiment' ) ) ) %>
+				<%= content_tag( 'td', link_to( 'Subjectivity', entities_sources_list_url( :order => 'subjectivity' ) ) ) %>
+			</tr>
+		</thead>
+		<tbody>
+			<%= render :partial => 'source_entity_sentiments/source_entity_sentiment', :collection => @entity.ordered_source_entity_sentiments( @order ) %>
+		</tbody>
+	</table>
+</div>

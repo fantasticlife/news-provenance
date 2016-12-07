@@ -15,8 +15,30 @@ class EntitiesController < ApplicationController
     end
     @section = 'entities'
   end
-  
   def show
+    entity = params[:entity]
+    @entity = Entity.find( entity )
+    @cooccurrent_entities = @entity.cooccurrent_entities
+    unless @cooccurrent_entities.empty?
+      @min_count = @cooccurrent_entities.last.count
+      @max_count = @cooccurrent_entities.first.count
+      @cooccurrent_entities = @cooccurrent_entities.sort_by { |e| e.name }
+    end
+    @section = 'entities'
+  end
+  def articles_list
+    entity = params[:entity]
+    @entity = Entity.find( entity )
+    @section = 'entities'
+  end
+  def sources_list
+    entity = params[:entity]
+    @entity = Entity.find( entity )
+    order = params[:order]
+    @order = order
+    @section = 'entities'
+  end
+  def entities_list
     entity = params[:entity]
     @entity = Entity.find( entity )
     @cooccurrent_entities = @entity.cooccurrent_entities

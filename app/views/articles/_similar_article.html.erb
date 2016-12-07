@@ -1,8 +1,8 @@
 <tr>
-	<%= content_tag( 'td', similar_article.similarity_score ) %>
+	<%= content_tag( 'td', similar_article.similarity ) %>
 	<%= content_tag( 'td', link_to( similar_article.target_article.source.title, sources_show_url( :source => similar_article.target_article.source ) ) ) %>
 	<%= content_tag( 'td', link_to( similar_article.target_article.title, articles_show_url( :article => similar_article.target_article ) ) ) %>
-	<%= content_tag( 'td', similar_article.target_article.published_at.strftime( '%d/%m/%Y @ %H:%M' ) ) %>
-	<%= content_tag( 'td', similar_article.target_article.sentiment_1 ) %>
-	<%= content_tag( 'td', similar_article.target_article.sentiment_2 ) %>
+	<%= content_tag( 'td', similar_article.sentiment ) %>
+	<%= content_tag( 'td', similar_article.subjectivity ) %>
+	<%= content_tag( 'td', similar_article.published_at.strftime( '%d/%m/%Y @ %H:%M' ) ) %>
 </tr>

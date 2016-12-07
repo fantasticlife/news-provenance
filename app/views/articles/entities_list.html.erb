@@ -1,0 +1,6 @@
+<div class="section">
+	<%= content_tag( 'h1', "Entities extracted from #{@article.title}" ) %>
+	<ol>
+		<%= render :partial => 'entities/entity', :collection => @article.entities %>
+	</ol>
+</div>

@@ -1,0 +1,6 @@
+<div class="section">
+	<%= content_tag( 'h1', "Articles from #{@source.title}" ) %>
+	<ol>
+		<%= render :partial => 'articles/article', :collection => @source.articles %>
+	</ol>
+</div>
